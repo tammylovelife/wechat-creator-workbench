@@ -158,9 +158,11 @@ async function pushToFeishu(radar, webhook) {
     body: JSON.stringify({
       msg_type: `post`,
       content: {
-        zh_cn: {
-          title: `AI 选题雷达 · ${dateInChina()} · 5 条`,
-          content: rows,
+        post: {
+          zh_cn: {
+            title: `AI 选题雷达 · ${dateInChina()} · 5 条`,
+            content: rows,
+          },
         },
       },
     }),
