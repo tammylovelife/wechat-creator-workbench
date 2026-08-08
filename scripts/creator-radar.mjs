@@ -69,6 +69,23 @@ function clip(value, length) {
   return String(value ?? ``).replace(/\s+/g, ` `).trim().slice(0, length)
 }
 
+function parseModelJson(content) {
+  const normalized = String(content ?? ``)
+    .trim()
+    .replace(/^```(?:json)?\s*/i, ``)
+    .replace(/\s*```$/, ``)
+
+  if (!normalized)
+    throw new Error(`DeepSeek returned an empty response`)
+
+  try {
+    return JSON.parse(normalized)
+  }
+  catch {
+    throw new Error(`DeepSeek returned incomplete JSON; please run the workflow again`)
+  }
+}
+
 async function selectIdeas(sources, deepseekKey) {
   const prompt = `你是中文个人公众号的选题编辑。账号方向：AI 工具、AI 视频制作和 AI 短剧创作；读者是希望提升创作效率的普通创作者。\n\n请仅依据下面的公开新闻，挑出最值得今天写的 5 条。优先实用、真实、新鲜、能给创作者带来具体变化的信息；排除营销软文、重复报道和与创作无关的行业新闻。不要编造事实、数据或来源。\n\n只返回 JSON：{\"summary\":\"一句话判断\",\"items\":[{\"sourceIndex\":1,\"topic\":\"选题\",\"whyNow\":\"为什么值得关注\",\"writingAngle\":\"公众号切入角度\",\"headline\":\"建议标题\"}]}。sourceIndex 必须对应给出的编号。\n\n来源：\n${sources.map((source, index) => `${index + 1}. ${source.title} | ${source.source || `公开网页`} | ${source.publishedAt} | ${source.url}`).join(`\n`)}`
   const response = await fetch(DEEPSEEK_API_URL, {
@@ -79,8 +96,9 @@ async function selectIdeas(sources, deepseekKey) {
     },
     body: JSON.stringify({
       model: process.env.DEEPSEEK_MODEL?.trim() || `deepseek-v4-flash`,
+      thinking: { type: `disabled` },
       temperature: 0.25,
-      max_tokens: 1800,
+      max_tokens: 3000,
       response_format: { type: `json_object` },
       messages: [
         { role: `system`, content: `只输出合法 JSON。` },
@@ -93,7 +111,7 @@ async function selectIdeas(sources, deepseekKey) {
 
   const payload = await response.json()
   const content = payload?.choices?.[0]?.message?.content
-  const parsed = JSON.parse(content)
+  const parsed = parseModelJson(content)
   const items = Array.isArray(parsed?.items) ? parsed.items : []
   const seen = new Set()
   const normalized = items.flatMap((item) => {
