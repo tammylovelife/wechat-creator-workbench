@@ -146,7 +146,7 @@ function dateInChina() {
 
 async function pushToFeishu(radar, webhook) {
   const rows = [
-    [{ tag: `text`, text: `AI 选题雷达\n${radar.summary || `今晚适合从“具体创作变化”切入。`}` }],
+    [{ tag: `text`, text: `AI选题雷达｜公众号选题雷达｜AI 选题雷达\n${radar.summary || `今晚适合从“具体创作变化”切入。`}` }],
   ]
   for (const [index, item] of radar.items.entries()) {
     rows.push([{ tag: `text`, text: `${index + 1}. ${item.topic}\n建议标题：${item.headline}\n为什么：${item.whyNow}\n切入：${item.writingAngle}` }])
