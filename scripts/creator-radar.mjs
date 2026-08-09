@@ -2,10 +2,10 @@ const DEEPSEEK_API_URL = `https://api.deepseek.com/chat/completions`
 const GOOGLE_NEWS_RSS = `https://news.google.com/rss/search`
 
 const queries = [
-  `AI tools creator workflow`,
-  `AI video generation creator`,
-  `AI short drama generative video`,
-  `AI model product update creators`,
+  `AI 工具 创作者 实测 教程 工作流 when:7d`,
+  `AI 视频生成 AIGC 视频 实操 工作流 教程 when:14d`,
+  `AI 短剧 制作 工作流 提示词 视频生成 when:30d`,
+  `自媒体 内容创作 AI 选题 爆款 案例 when:14d`,
 ]
 
 function required(name) {
@@ -37,9 +37,10 @@ function parseFeed(xml) {
     const url = field(item, `link`)
     const publishedAt = field(item, `pubDate`)
     const source = field(item, `source`)
+    const summary = field(item, `description`).replace(/<[^>]*>/g, ``)
     if (!title || !url.startsWith(`http`))
       return []
-    return [{ title, url, publishedAt, source }]
+    return [{ title, url, publishedAt, source, summary: clip(summary, 360) }]
   })
 }
 
@@ -87,7 +88,7 @@ function parseModelJson(content) {
 }
 
 async function selectIdeas(sources, deepseekKey) {
-  const prompt = `你是中文个人公众号的选题编辑。账号方向：AI 工具、AI 视频制作和 AI 短剧创作；读者是希望提升创作效率的普通创作者。\n\n请仅依据下面的公开新闻，挑出最值得今天写的 5 条。优先实用、真实、新鲜、能给创作者带来具体变化的信息；排除营销软文、重复报道和与创作无关的行业新闻。不要编造事实、数据或来源。\n\n只返回 JSON：{\"summary\":\"一句话判断\",\"items\":[{\"sourceIndex\":1,\"topic\":\"选题\",\"whyNow\":\"为什么值得关注\",\"writingAngle\":\"公众号切入角度\",\"headline\":\"建议标题\"}]}。sourceIndex 必须对应给出的编号。\n\n来源：\n${sources.map((source, index) => `${index + 1}. ${source.title} | ${source.source || `公开网页`} | ${source.publishedAt} | ${source.url}`).join(`\n`)}`
+  const prompt = `你是一个中文个人公众号的资深选题编辑。账号定位：AI 工具实操、AI 视频/短剧制作、自媒体创作工作流；读者是普通创作者，不是投资人或企业 CIO。\n\n请只依据下方公开来源，选出 5 个“作者今晚真的愿意动笔”的选题。\n\n硬性筛选：\n- 至少 2 条是可以立刻上手的 AI 工具、提示词或创作工作流；\n- 至少 1 条和 AI 视频、角色一致性、分镜、短剧或视频生成有关；\n- 至少 1 条给自媒体账号选题、标题或内容表达带来启发；\n- 排除融资、股价、政策、纯企业公告、海外产品罗列，以及读者无法实际使用的消息；除非它能直接改变中国创作者的工作方法；\n- 不要把新闻标题换个说法，也不要编造教程、功能、数据或爆款案例。若来源不足以支撑 5 条，就只返回可靠的条目。\n\n每条都必须回答“我今晚能写成什么”，写成具体、克制的公众号切口。标题要自然，有好奇心但不夸张。\n\n只返回 JSON：{\"summary\":\"给作者的一句编辑判断\",\"items\":[{\"sourceIndex\":1,\"topic\":\"具体可写的选题\",\"whyNow\":\"来源中能确认的变化，40字内\",\"writingAngle\":\"我今晚可以怎样写，60字内\",\"headline\":\"一个可直接使用的中文标题\"}]}。sourceIndex 必须对应给出的编号。\n\n来源：\n${sources.map((source, index) => `${index + 1}. 标题：${source.title}\n来源：${source.source || `公开网页`}｜时间：${source.publishedAt}\n摘要：${source.summary || `无摘要`}\n链接：${source.url}`).join(`\n\n`)}`
   const response = await fetch(DEEPSEEK_API_URL, {
     method: `POST`,
     headers: {
@@ -130,8 +131,8 @@ async function selectIdeas(sources, deepseekKey) {
     }]
   }).slice(0, 5)
 
-  if (normalized.length !== 5)
-    throw new Error(`DeepSeek did not return five usable ideas`)
+  if (!normalized.length)
+    throw new Error(`DeepSeek did not return usable creator ideas`)
   return { summary: clip(parsed?.summary, 160), items: normalized }
 }
 
@@ -149,7 +150,7 @@ async function pushToFeishu(radar, webhook) {
     [{ tag: `text`, text: `AI选题雷达｜公众号选题雷达｜AI 选题雷达\n${radar.summary || `今晚适合从“具体创作变化”切入。`}` }],
   ]
   for (const [index, item] of radar.items.entries()) {
-    rows.push([{ tag: `text`, text: `${index + 1}. ${item.topic}\n建议标题：${item.headline}\n为什么：${item.whyNow}\n切入：${item.writingAngle}` }])
+    rows.push([{ tag: `text`, text: `${index + 1}. ${item.topic}\n今晚怎么写：${item.writingAngle}\n标题：${item.headline}\n依据：${item.whyNow}` }])
     rows.push([{ tag: `a`, text: `查看来源：${item.source.title}`, href: item.source.url }])
   }
   const response = await fetch(webhook, {
@@ -160,7 +161,7 @@ async function pushToFeishu(radar, webhook) {
       content: {
         post: {
           zh_cn: {
-            title: `AI 选题雷达 · ${dateInChina()} · 5 条`,
+            title: `AI 选题雷达 · ${dateInChina()} · ${radar.items.length} 条`,
             content: rows,
           },
         },
