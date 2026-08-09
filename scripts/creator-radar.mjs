@@ -1,11 +1,12 @@
 const DEEPSEEK_API_URL = `https://api.deepseek.com/chat/completions`
 const GOOGLE_NEWS_RSS = `https://news.google.com/rss/search`
+const MAX_SOURCE_AGE_DAYS = 5
 
 const queries = [
-  `AI 工具 创作者 实测 教程 工作流 when:7d`,
-  `AI 视频生成 AIGC 视频 实操 工作流 教程 when:14d`,
-  `AI 短剧 制作 工作流 提示词 视频生成 when:30d`,
-  `自媒体 内容创作 AI 选题 爆款 案例 when:14d`,
+  `AI视频 模型 更新 实测 工作流 when:3d`,
+  `AI视频 角色一致性 分镜 口型 视频生成 实操 when:7d`,
+  `AI短剧 制作 视频生成 工作流 实操 when:7d`,
+  `ComfyUI AI视频 Seedance 即梦 可灵 工作流 when:7d`,
 ]
 
 function required(name) {
@@ -44,6 +45,14 @@ function parseFeed(xml) {
   })
 }
 
+function isFresh(item) {
+  const timestamp = Date.parse(item.publishedAt)
+  if (Number.isNaN(timestamp))
+    return false
+  const age = Date.now() - timestamp
+  return age >= -24 * 60 * 60 * 1000 && age <= MAX_SOURCE_AGE_DAYS * 24 * 60 * 60 * 1000
+}
+
 async function loadSources() {
   const responses = await Promise.all(queries.map(async (query) => {
     const url = new URL(GOOGLE_NEWS_RSS)
@@ -58,7 +67,7 @@ async function loadSources() {
   }))
 
   const unique = new Map()
-  for (const item of responses.flat()) {
+  for (const item of responses.flat().filter(isFresh)) {
     const key = item.title.toLowerCase()
     if (!unique.has(key))
       unique.set(key, item)
@@ -88,7 +97,7 @@ function parseModelJson(content) {
 }
 
 async function selectIdeas(sources, deepseekKey) {
-  const prompt = `你是一个中文个人公众号的资深选题编辑。账号定位：AI 工具实操、AI 视频/短剧制作、自媒体创作工作流；读者是普通创作者，不是投资人或企业 CIO。\n\n请只依据下方公开来源，选出 5 个“作者今晚真的愿意动笔”的选题。\n\n硬性筛选：\n- 至少 2 条是可以立刻上手的 AI 工具、提示词或创作工作流；\n- 至少 1 条和 AI 视频、角色一致性、分镜、短剧或视频生成有关；\n- 至少 1 条给自媒体账号选题、标题或内容表达带来启发；\n- 排除融资、股价、政策、纯企业公告、海外产品罗列，以及读者无法实际使用的消息；除非它能直接改变中国创作者的工作方法；\n- 不要把新闻标题换个说法，也不要编造教程、功能、数据或爆款案例。若来源不足以支撑 5 条，就只返回可靠的条目。\n\n每条都必须回答“我今晚能写成什么”，写成具体、克制的公众号切口。标题要自然，有好奇心但不夸张。\n\n只返回 JSON：{\"summary\":\"给作者的一句编辑判断\",\"items\":[{\"sourceIndex\":1,\"topic\":\"具体可写的选题\",\"whyNow\":\"来源中能确认的变化，40字内\",\"writingAngle\":\"我今晚可以怎样写，60字内\",\"headline\":\"一个可直接使用的中文标题\"}]}。sourceIndex 必须对应给出的编号。\n\n来源：\n${sources.map((source, index) => `${index + 1}. 标题：${source.title}\n来源：${source.source || `公开网页`}｜时间：${source.publishedAt}\n摘要：${source.summary || `无摘要`}\n链接：${source.url}`).join(`\n\n`)}`
+  const prompt = `你是一个中文个人公众号的资深选题编辑。账号最核心的方向：AI 视频制作、AI 短剧、角色一致性、分镜、口型、视频生成与 ComfyUI 工作流；读者是想亲自上手做内容的普通创作者。\n\n请只依据下方最近 5 天的公开来源，选出最多 5 个“作者今晚真的愿意动笔”的选题。\n\n硬性筛选：\n- 5 条里至少 4 条必须直接和 AI 视频制作相关；优先模型新能力、角色一致性、镜头控制、分镜、配音口型、短剧工作流和 ComfyUI；\n- 只推荐最近可验证的新发布、新实测或新工作流；任何旧模型版本、换壳新闻、过期教程、泛行业报道一律排除；\n- 若提到具体模型版本，只能在来源明确且确实是当前更新时推荐，绝不推荐已被新版本替代的功能；\n- 第 5 条可为创作者的选题/表达案例，但必须能直接服务 AI 视频账号；\n- 排除融资、股价、政策、纯企业公告、海外产品罗列，以及读者无法实际使用的消息；\n- 不要把新闻标题换个说法，也不要编造教程、功能、数据或爆款案例。若可靠来源不足 5 条，宁可少推。\n\n每条都必须回答“我今晚能写成什么”，写成具体、克制的公众号切口。标题要自然，有好奇心但不夸张。\n\n只返回 JSON：{\"summary\":\"给作者的一句编辑判断\",\"items\":[{\"sourceIndex\":1,\"topic\":\"具体可写的选题\",\"whyNow\":\"来源中能确认的变化，40字内\",\"writingAngle\":\"我今晚可以怎样写，60字内\",\"headline\":\"一个可直接使用的中文标题\"}]}。sourceIndex 必须对应给出的编号。\n\n来源：\n${sources.map((source, index) => `${index + 1}. 标题：${source.title}\n来源：${source.source || `公开网页`}｜时间：${source.publishedAt}\n摘要：${source.summary || `无摘要`}\n链接：${source.url}`).join(`\n\n`)}`
   const response = await fetch(DEEPSEEK_API_URL, {
     method: `POST`,
     headers: {
