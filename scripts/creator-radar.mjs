@@ -1,6 +1,10 @@
+import { readFile, writeFile } from 'node:fs/promises'
+
 const DEEPSEEK_API_URL = `https://api.deepseek.com/chat/completions`
 const GOOGLE_NEWS_RSS = `https://news.google.com/rss/search`
 const MAX_SOURCE_AGE_DAYS = 5
+const HISTORY_DAYS = 14
+const HISTORY_FILE = new URL(`../data/creator-radar-history.json`, import.meta.url)
 
 const queries = [
   `AI视频 模型 更新 实测 工作流 when:3d`,
@@ -66,10 +70,11 @@ async function loadSources() {
     return parseFeed(await response.text())
   }))
 
+  const history = await readHistory()
   const unique = new Map()
   for (const item of responses.flat().filter(isFresh)) {
     const key = item.title.toLowerCase()
-    if (!unique.has(key))
+    if (!unique.has(key) && !sourceWasSent(item, history))
       unique.set(key, item)
   }
   return [...unique.values()].slice(0, 32)
@@ -77,6 +82,57 @@ async function loadSources() {
 
 function clip(value, length) {
   return String(value ?? ``).replace(/\s+/g, ` `).trim().slice(0, length)
+}
+
+function historyCutoff() {
+  return Date.now() - HISTORY_DAYS * 24 * 60 * 60 * 1000
+}
+
+async function readHistory() {
+  try {
+    const parsed = JSON.parse(await readFile(HISTORY_FILE, `utf8`))
+    return Array.isArray(parsed?.items)
+      ? parsed.items.filter(item => Number(item?.sentAt) >= historyCutoff())
+      : []
+  }
+  catch {
+    return []
+  }
+}
+
+function textKey(value) {
+  return String(value ?? ``).toLowerCase().replace(/[^\p{L}\p{N}]/gu, ``)
+}
+
+function sourceWasSent(source, history) {
+  const title = textKey(source.title)
+  return history.some((item) => {
+    if (item?.url === source.url)
+      return true
+    const previousTitle = textKey(item?.sourceTitle)
+    return title.length > 14 && previousTitle.length > 14 && (title.includes(previousTitle) || previousTitle.includes(title))
+  })
+}
+
+function historyBrief(history) {
+  return history.length
+    ? history.map(item => `- ${item.topic}｜${item.headline}`).join(`\n`)
+    : `无`
+}
+
+async function saveHistory(items) {
+  const previous = await readHistory()
+  const records = [
+    ...items.map(item => ({
+      sentAt: Date.now(),
+      topic: item.topic,
+      headline: item.headline,
+      sourceTitle: item.source.title,
+      url: item.source.url,
+    })),
+    ...previous,
+  ].slice(0, 100)
+  await writeFile(HISTORY_FILE, `${JSON.stringify({ items: records }, null, 2)}\n`, `utf8`)
 }
 
 function parseModelJson(content) {
@@ -96,8 +152,8 @@ function parseModelJson(content) {
   }
 }
 
-async function selectIdeas(sources, deepseekKey) {
-  const prompt = `你是一个中文个人公众号的资深选题编辑。账号核心方向：AI 视频制作、AI 短剧、角色一致性、分镜、口型、视频生成与 ComfyUI 工作流；读者是想亲自上手做内容的普通创作者。\n\n请只依据下方最近 5 天的公开来源，选出最多 5 个“作者今晚真的愿意动笔”的选题。\n\n固定配比：\n- 3 条：直接和 AI 视频/短剧制作相关，优先模型新能力、角色一致性、镜头控制、分镜、配音口型、短剧工作流和 ComfyUI；\n- 1 条：真正重要的最新 AI 资讯，例如主流模型或产品的关键更新；必须能解释它会怎样改变普通创作者，不要泛泛报新闻；\n- 1 条：可实操的 AI 工具、创作工作流或自媒体内容表达案例。\n\n硬性筛选：\n- 只推荐最近可验证的新发布、新实测或新工作流；任何旧模型版本、换壳新闻、过期教程、泛行业报道一律排除；\n- 若提到具体模型版本，只能在来源明确且确实是当前更新时推荐，绝不推荐已被新版本替代的功能；\n- 排除融资、股价、政策、纯企业公告、海外产品罗列，以及读者无法实际使用的消息；\n- 不要把新闻标题换个说法，也不要编造教程、功能、数据或爆款案例。若可靠来源不足 5 条，宁可少推。\n\n每条都必须回答“我今晚能写成什么”，写成具体、克制的公众号切口。标题要自然，有好奇心但不夸张。\n\n只返回 JSON：{\"summary\":\"给作者的一句编辑判断\",\"items\":[{\"sourceIndex\":1,\"topic\":\"具体可写的选题\",\"whyNow\":\"来源中能确认的变化，40字内\",\"writingAngle\":\"我今晚可以怎样写，60字内\",\"headline\":\"一个可直接使用的中文标题\"}]}。sourceIndex 必须对应给出的编号。\n\n来源：\n${sources.map((source, index) => `${index + 1}. 标题：${source.title}\n来源：${source.source || `公开网页`}｜时间：${source.publishedAt}\n摘要：${source.summary || `无摘要`}\n链接：${source.url}`).join(`\n\n`)}`
+async function selectIdeas(sources, history, deepseekKey) {
+  const prompt = `你是一个中文个人公众号的资深选题编辑。账号核心方向：AI 视频制作、AI 短剧、角色一致性、分镜、口型、视频生成与 ComfyUI 工作流；读者是想亲自上手做内容的普通创作者。\n\n请只依据下方最近 5 天的公开来源，选出最多 5 个“作者今晚真的愿意动笔”的选题。\n\n硬性筛选：\n- 优先 AI 视频/短剧制作；可保留 1 条真正重要、且能改变普通创作者工作方式的最新 AI 资讯，以及 1 条实操工具或内容表达案例；\n- 只推荐最近可验证的新发布、新实测或新工作流；旧模型版本、换壳新闻、过期教程、泛行业报道一律排除；\n- 下方列出了最近 14 天已经推送过的题目。禁止重复相同模型、相同版本、相同功能或相同教程；即使换了来源或标题也算重复。只有出现明确的新版本或实质新功能，才允许再次提及，并必须在 whyNow 中说明“新在哪里”；\n- 排除融资、股价、政策、纯企业公告、海外产品罗列，以及读者无法实际使用的消息；\n- 不要把新闻标题换个说法，也不要编造教程、功能、数据或爆款案例。可靠来源不足 5 条时宁可少推；没有明显值得写的内容时，items 返回空数组。\n\n每条都必须回答“我今晚能写成什么”，写成具体、克制的公众号切口。标题要自然，有好奇心但不夸张。\n\n只返回 JSON：{\"summary\":\"给作者的一句编辑判断；若无新内容，直接说今天没有值得打扰的更新\",\"items\":[{\"sourceIndex\":1,\"topic\":\"具体可写的选题\",\"whyNow\":\"来源中能确认的变化，40字内\",\"writingAngle\":\"我今晚可以怎样写，60字内\",\"headline\":\"一个可直接使用的中文标题\"}]}。sourceIndex 必须对应给出的编号。\n\n最近 14 天已推送（禁止重复）：\n${historyBrief(history)}\n\n候选来源：\n${sources.map((source, index) => `${index + 1}. 标题：${source.title}\n来源：${source.source || `公开网页`}｜时间：${source.publishedAt}\n摘要：${source.summary || `无摘要`}\n链接：${source.url}`).join(`\n\n`)}`
   const response = await fetch(DEEPSEEK_API_URL, {
     method: `POST`,
     headers: {
@@ -140,8 +196,6 @@ async function selectIdeas(sources, deepseekKey) {
     }]
   }).slice(0, 5)
 
-  if (!normalized.length)
-    throw new Error(`DeepSeek did not return usable creator ideas`)
   return { summary: clip(parsed?.summary, 160), items: normalized }
 }
 
@@ -186,10 +240,12 @@ async function main() {
   const deepseekKey = required(`DEEPSEEK_API_KEY`)
   const feishuWebhook = required(`FEISHU_WEBHOOK_URL`)
   const sources = await loadSources()
-  if (sources.length < 8)
+  if (sources.length < 3)
     throw new Error(`Not enough public sources today`)
-  const radar = await selectIdeas(sources, deepseekKey)
+  const history = await readHistory()
+  const radar = await selectIdeas(sources, history, deepseekKey)
   await pushToFeishu(radar, feishuWebhook)
+  await saveHistory(radar.items)
   console.log(`Pushed ${radar.items.length} creator ideas for ${dateInChina()}.`)
 }
 
