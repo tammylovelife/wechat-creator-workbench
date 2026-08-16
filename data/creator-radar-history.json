@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "sentAt": 1786884295184,
+      "topic": "LTX-2.5 开放权重视频模型实测：6.8秒出片，本地可跑",
+      "headline": "6.8秒出片的开源视频模型 LTX-2.5，我实测后想说说真话",
+      "sourceTitle": "LTX-2.5实测解析：6.8秒出片，开放权重AI视频生成",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuOWVyX21odHZibkdGSDczZXZHdFNIQ1Y1QTkwLUQxTE9wM25HZG9fNV83UGRYY2xwMDFTQnhRQUJQUUhLMFE5VkRSN0FVSk9JT3BiU2dpWjMwekJvN2E3aHZqVDNGUQ?oc=5"
+    },
+    {
+      "sentAt": 1786884295184,
+      "topic": "AI 短片《反正也没时间活》创作拆解：从创意到成片",
+      "headline": "AI 短片《反正也没时间活》是怎么做出来的？我拆解了全流程",
+      "sourceTitle": "AI短片《反正也没时间活》是如何创作出来的？",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1adDJHVk05Ty15MC1KTmVfX0FWODBFU2RISExMQ01KOWtWel9YWkNhUFpzT3JrYzlrUGtRYWdtUUNQNkFUcVFUSmxNWjJyR2VLY1JuX08yOG1WLXZreWlMUjRYWVhwYlRYVHZYd3RjdWM1OWdSWGNZR3ZCdWwzS3c?oc=5"
+    },
+    {
+      "sentAt": 1786884295184,
+      "topic": "AI 短剧收益下滑，万播收益不足10元，行业进入大逃杀",
+      "headline": "万播收益不足10元，AI 短剧还能做吗？",
+      "sourceTitle": "万播收益降至10元内，破亿率不足0.5%，AI短剧开启“大逃杀”",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XOXhPN09hZ3lmWkV4TDFod3hoSl9NLVU5N1ZKc2hxWUduUW9XVG5IZ1JhUzlXOG1DZ25hSy1mUG1UaTRuajFUU3d5WUdPUVBPOGctanI0OA?oc=5"
+    },
+    {
+      "sentAt": 1786884295184,
+      "topic": "知识科普类 AI 视频工具推荐与实测",
+      "headline": "做知识科普视频，哪款 AI 工具最顺手？我实测了这几款",
+      "sourceTitle": "适合知识科普类内容的AI视频生成工具有哪些推荐？",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MNUNha2FSVlV0dlpXbWVUR3NFRjVBTjJUT1pDOTZaa0lSNThGUWtUaXdVTXZ2ZExDR2RLNlc1MHRNZUFrRVU1aTlJQzA4MmVNUEhTaVczUWU5Y2FGR0dfZjln?oc=5"
+    },
+    {
       "sentAt": 1786680000000,
       "topic": "Seedance 2.5 七维实测：从片段到叙事",
       "headline": "Seedance 2.5 实测：AI视频终于会讲故事了？",
