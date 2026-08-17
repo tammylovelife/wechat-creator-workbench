@@ -2,6 +2,7 @@ import { readFile, writeFile } from 'node:fs/promises'
 
 const DEEPSEEK_API_URL = `https://api.deepseek.com/chat/completions`
 const GOOGLE_NEWS_RSS = `https://news.google.com/rss/search`
+const BING_NEWS_RSS = `https://www.bing.com/news/search`
 const MAX_SOURCE_AGE_DAYS = 5
 const HISTORY_DAYS = 14
 const HISTORY_FILE = new URL(`../data/creator-radar-history.json`, import.meta.url)
@@ -58,16 +59,49 @@ function isFresh(item) {
 }
 
 async function loadSources() {
+  const fetchRss = async (url, label) => {
+    let lastError = `${label} unavailable`
+    for (let attempt = 1; attempt <= 2; attempt += 1) {
+      try {
+        const response = await fetch(url, {
+          headers: {
+            Accept: `application/rss+xml, application/xml, text/xml`,
+            'User-Agent': `Mozilla/5.0 creator-radar/1.0`,
+          },
+        })
+        if (!response.ok) {
+          lastError = `${label} failed: ${response.status}`
+        }
+        else {
+          const items = parseFeed(await response.text())
+          if (items.length)
+            return items
+          lastError = `${label} returned no items`
+        }
+      }
+      catch (error) {
+        lastError = error instanceof Error ? error.message : String(error)
+      }
+      if (attempt < 2)
+        await new Promise(resolve => setTimeout(resolve, 800 * attempt))
+    }
+    return []
+  }
+
   const responses = await Promise.all(queries.map(async (query) => {
-    const url = new URL(GOOGLE_NEWS_RSS)
-    url.searchParams.set(`q`, query)
-    url.searchParams.set(`hl`, `zh-CN`)
-    url.searchParams.set(`gl`, `CN`)
-    url.searchParams.set(`ceid`, `CN:zh-Hans`)
-    const response = await fetch(url, { headers: { 'User-Agent': `creator-radar/1.0` } })
-    if (!response.ok)
-      throw new Error(`News source failed: ${response.status}`)
-    return parseFeed(await response.text())
+    const googleUrl = new URL(GOOGLE_NEWS_RSS)
+    googleUrl.searchParams.set(`q`, query)
+    googleUrl.searchParams.set(`hl`, `zh-CN`)
+    googleUrl.searchParams.set(`gl`, `CN`)
+    googleUrl.searchParams.set(`ceid`, `CN:zh-Hans`)
+    const googleItems = await fetchRss(googleUrl, `Google News`)
+    if (googleItems.length)
+      return googleItems
+
+    const bingUrl = new URL(BING_NEWS_RSS)
+    bingUrl.searchParams.set(`q`, query.replace(/\s+when:\d+d$/, ``))
+    bingUrl.searchParams.set(`format`, `rss`)
+    return fetchRss(bingUrl, `Bing News`)
   }))
 
   const history = await readHistory()
@@ -241,7 +275,7 @@ async function main() {
   const feishuWebhook = required(`FEISHU_WEBHOOK_URL`)
   const sources = await loadSources()
   if (sources.length < 3)
-    throw new Error(`Not enough public sources today`)
+    throw new Error(`Not enough public sources today; news providers may be temporarily unavailable`)
   const history = await readHistory()
   const radar = await selectIdeas(sources, history, deepseekKey)
   await pushToFeishu(radar, feishuWebhook)
