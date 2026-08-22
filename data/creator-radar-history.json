@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "sentAt": 1787402668897,
+      "topic": "MiniMax Design 发布：一句话指挥 H3 视频模型全流程制作",
+      "headline": "一句话生成 AI 视频？MiniMax Design 实测：视频创作进入“Claude Code 时刻”",
+      "sourceTitle": "视频生成迎来“Claude Code 时刻”，MiniMax Design “杀入” Adobe、Canva 腹地 - InfoQ-CN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lcW81a1hObWRsTXRtaHk4Si1lblpId1VLcmRsbFB3emJWUUF0Z2ZMRERfc3JNX3dvVHZhS1M5dHhuMGR3OWRDNEJvQUx0ZEY1LWhhREtKbzBVb1RhcFE?oc=5"
+    },
+    {
+      "sentAt": 1787402668897,
+      "topic": "PixPix 首发接入 FLUX Upscale，AI 视频一键升级原生 4K",
+      "headline": "AI 视频一键变 4K？PixPix 接入 FLUX Upscale 实测，画质提升明显吗？",
+      "sourceTitle": "PixPix首发接入FLUX Upscale AI视频一键升级原生4K",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoYjFJOFU4ZDIzWGtnVTZRbU1MYTAzYkV1UnMzUDMxalRLczl2ZXRvWWRCT216M2MwMUtiel8zSi1ILWFqN2ExTWdMUXRFRklaUW9zZ1NhZ3M?oc=5"
+    },
+    {
+      "sentAt": 1787402668897,
+      "topic": "烧了 2000 块，终于找到驯服 Seedance 2.5 的方法",
+      "headline": "烧了 2000 块才总结的 Seedance 2.5 驯服指南：这些坑你别踩",
+      "sourceTitle": "烧了2000块，我终于找到驯服Seedance2.5的方法！",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0eEV2RGhfcXhaYjZReXNwRXItVDRfT013Slcwbk13el8wM0hxd1NfSW5SMnB0ZlA2NXNteHVNNUpLQkxhYVN5QkdaQm1mRm9pd21EcThB?oc=5"
+    },
+    {
+      "sentAt": 1787402668897,
+      "topic": "AIGCPanel v2.2.0 升级：文图生视频、结果自动保存，创作门槛降至“会打字”",
+      "headline": "AIGCPanel v2.2.0 实测：文图生视频+自动保存，AI 创作门槛真的降到“会打字”了？",
+      "sourceTitle": "AIGCPanel v2.2.0 升级：文图生视频、结果自动保存，创作门槛降至“会打字”！",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82WG1yVU42a3RmQlluYXdFSU1sT1NKZHg5WFNVU3ZqNTF2amdyLUgyU0RwTWFRUlBOd29MRWtQVk1PZm9yS3RKdjNsaXFfdGFkS1lTZjI0Q2lhSERwcjhSN1NPbDU2VWFxTGhN?oc=5"
+    },
+    {
+      "sentAt": 1787402668897,
+      "topic": "昆仑万维下调天工短剧工作台 AI 短剧生成单价，全链路布局短剧出海",
+      "headline": "天工短剧工作台降价了！AI 短剧成本再降，普通人能赚到钱吗？",
+      "sourceTitle": "昆仑万维：下调天工短剧工作台AI短剧生成单价 全链路布局短剧出海",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESW05eEFORDVlOFB4OXJTeFpLb3FIWjVXWWVFMGlxUkNMWG5LNVlJTDJNV1ZGRkZyOHlyRWhUNW5HOU1RU25tdjhOS2FUdFducUxyeDQzSDhwOHJmUFRXYg?oc=5"
+    },
+    {
       "sentAt": 1787230509668,
       "topic": "AI视频运镜的3D预演台工作流",
       "headline": "告别运镜抽卡：3D预演台让AI视频镜头一次到位",
