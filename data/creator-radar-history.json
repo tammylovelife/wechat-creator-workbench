@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "sentAt": 1787576148565,
+      "topic": "阿里云Wan3.0正式版上线：原生单次生成30秒，文档直接转视频",
+      "headline": "阿里云Wan3.0正式版实测：文档一键变视频，30秒长镜头一次生成",
+      "sourceTitle": "阿里云Wan3.0正式版上线：原生单次生成30秒！文档直接转视频",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBcFMtS0dteVBwckRwZFJDcDdQSXk3TkNYeUdYZHJJbG9fY1VYVkNhM2lDZFJBa0thNzI5bExmb2hUMG1KeWVBd2ZjV2x1S2VMY2JQVGwzTzk?oc=5"
+    },
+    {
+      "sentAt": 1787576148565,
+      "topic": "MiniMax H3的Harness案例：创作猫片、复刻《黑神话：钟馗》",
+      "headline": "用MiniMax H3做猫片、复刻《黑神话：钟馗》？Harness实操拆解",
+      "sourceTitle": "创作“猫片”、复刻《黑神话：钟馗》，最适合MiniMax H3的Harness来了",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDMEtOSHhzcjdPejNCU3J0QmtLdnlzNU5VaDdTWXoybVRBLW1LUDJCZDdXTTdmQXFkTTdwUWpSR2VrZ3plVXFCdA?oc=5"
+    },
+    {
+      "sentAt": 1787576148565,
+      "topic": "万兴科技全新推出AI画布工作台",
+      "headline": "万兴AI画布工作台实测：视频创作还能更简单吗？",
+      "sourceTitle": "万兴科技全新推出AI画布工作台",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rTEc1OC04U0d0M0dlMkJGeVlCRWY3cTRYb2Y4d0U3Q0hoaU9YeFF6U05YSU5aVHRSRjROUmNmMHFOZ0xGQXo3TVJsN1ZXX2VZRXZKXzdydnQ2ZUR1QU1FNll1bE5zbWVOOUVUcjMxRnVWZWpNbXRr?oc=5"
+    },
+    {
       "sentAt": 1787402668897,
       "topic": "MiniMax Design 发布：一句话指挥 H3 视频模型全流程制作",
       "headline": "一句话生成 AI 视频？MiniMax Design 实测：视频创作进入“Claude Code 时刻”",
