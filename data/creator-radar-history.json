@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "sentAt": 1788020770801,
+      "topic": "Midjourney V8.2图像编辑模型实测：指令微调与画布扩展如何改变AI视频创作流程",
+      "headline": "Midjourney V8.2实测：指令微调+画布扩展，AI视频分镜终于能改了",
+      "sourceTitle": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91TmgtU3RMbUdXRU90ZjU1VUtJS0hYVFhla0haMjVXR29YcS1kb09EaFhfLXBCcnRhbXAwOHIxSERYWDNYbEFJZnJOSWt1Zw?oc=5"
+    },
+    {
+      "sentAt": 1788020770801,
+      "topic": "MAVIN：从一句提示词到多镜头成片，ECCV 2026 Oral框架如何让AI按剧本讲故事",
+      "headline": "ECCV 2026 Oral：MAVIN让AI从一句话生成多镜头短剧，剧本创作要变天？",
+      "sourceTitle": "ECCV 2026 Oral｜从「一句提示词」到「多镜头成片」：MAVIN让AI开始按剧本讲故事",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xSlphTHJ0dGVGc3VFX1Jvd2xsdXlUcGdaS0ozMUJ1R05JTk1rbVlwaDhHU3dHME9JOXFabWRBZTBCTzZGMHdNOVM3Sm55eFdHVkIyc2YwQS0yQlk0MkxkSDZVWEdTQ2R2ME9lWlAwamVWLXF0N284WVY1SURIUTQ?oc=5"
+    },
+    {
+      "sentAt": 1788020770801,
+      "topic": "万兴剧厂接入Wan3.0：短剧选型标准是什么？场景可用性实测",
+      "headline": "万兴剧厂接入Wan3.0实测：短剧选型，场景可用性比参数更重要？",
+      "sourceTitle": "短剧圈不缺模型，缺的是选型标准：万兴剧厂接入Wan3.0，拼的是场景可用性",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VVTdUUG5CMVNtSmNSSU9qa2VabkdyX2FFclI0QU91ZXpJUVFISnY2akRNNXNBQWhnT0JCU1FGUi0zeUpib1psZ2VfbllGcHN4?oc=5"
+    },
+    {
+      "sentAt": 1788020770801,
+      "topic": "AI动画《铁甲行者》技术拆解：战友反目场景如何用AI实现",
+      "headline": "AI动画《铁甲行者》技术拆解：战友反目场景是怎么做出来的？",
+      "sourceTitle": "AI动画《铁甲行者》战友反目，技术炸裂引热议",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWFlwUm5rb3hwWUlXQllmYjk4eGpDSEk2ZVlFQUlIRjRhdElEeWZuVEZvMmpqdXpHUWVKVEJPcFdIcVl1MURUblNJYzI2X3gzcm1yY3NhdXFieEhTTlc3eUxPWG5raTg1d1p3RVczQ2JuNGhMYTZuTFF5blctOHRyN3FpQ1k?oc=5"
+    },
+    {
+      "sentAt": 1788020770801,
+      "topic": "AI短剧出海成本降至万元？从百万元到万元的制作流程变化",
+      "headline": "AI短剧出海成本降至万元？我拆解了从百万到万的制作流程",
+      "sourceTitle": "成本从百万元降到万元？AI短剧杀向海外",
+      "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxPUFBWLUxTdjVvbEpXZkZTVU5pM0RKV1FkaUlYcGg2V3dzeUxkanE1V2FFLU1jT0JwLW0xc3p3MU5STmpfZ1ZmT2sxYW5QQ0RRWjFQNmQyeDVQWVNIR2Z5ektRTEs3alRBenFpekd2MmlpWFpxQnR5d0F5UEdOYUZ4TlBhSVg0dGg4MUxENG9hTGtFQXFvUm9FRWRFeDdhOEtXVGdWYTB0bkViMW0wYThsb1JJbl9lVnhHb28tUF9XWndvNTJ1WDRpaF9zSE5YSVN3cG9RUlp4UFRyMFRhSlhSa1lzZkRqSXp1d3hyZ1VZamNPYmtXQ3NON0JhYVdTN3BvMlJxLVQ3MWpFdmpnTjYxM2c4VXNxaElvdzRUQjBndmNPUDF0UHhGb29oN2MyY0JIX01BNnpXbHZPRThkeG5mTUZFZWxaUUplTTJaWGo3bmc4dHFWcklTOFdDbUNBTVByS1JndkNKaWt6TXdsaERBWXNGYjJUNFJDZjVtTU9qZi1kQWhyRExESE5Dd2psdFpsQmhSSlZaZDh3VnpaQl9IcWo3WGxITmE1bWlYZ2EtV2RWMzJoQjVpbW9seFAyRTU3R2dRUWRzYWFTdHhaajZET3BjdnlIWGlFQW9MZXpGWUluS3hXTEFtN1RjRUx6a3BoYVJ5dXdMVE82UVM0aTRlU1VPMVBqZlVVQTZZaTA4eUlvQ19BWGk1bERTTWRCZ0otdE5iRmhzXzZ0d09ROTE2YVNVMURSQ3lsRTE2THI2d1dWdWVXUDBUVA?oc=5"
+    },
+    {
       "sentAt": 1787867960797,
       "topic": "免费视频模型 Pavo 实测，AI 短剧成本再降",
       "headline": "免费视频模型 Pavo 实测：AI 短剧成本真能打到地板？",
