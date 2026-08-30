@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "sentAt": 1788106781340,
+      "topic": "谷歌 Gemini Omni 1.1 Flash 视频生成模型实测，最高支持 4K 分辨率",
+      "headline": "谷歌 Gemini Omni 1.1 Flash 实测：4K 视频生成，普通创作者该换吗？",
+      "sourceTitle": "谷歌推出Gemini Omni 1.1 Flash视频生成模型，最高4K分辨率-yeeyi",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNld1NWhTUjdod1NuM2pBY0h2VF9KOEZneXo4Q1RvLVVZbHZNZnBJaDZqRGZOdVJiTnZSVlI0QlN6Ull1OHNLbUppby1idW9jX3hGd2Vn?oc=5"
+    },
+    {
+      "sentAt": 1788106781340,
+      "topic": "AI 短剧《The Accident》制作流程拆解",
+      "headline": "拆解 AI 短剧《The Accident》：从剧本到成片，用了哪些工具？",
+      "sourceTitle": "《The Accident》这部AI短剧是如何制作出来的？",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JcU9sVjFzaVhlWFEyZ29yUVpGYlh6eWx0dk5YLS0tYTBkMUxkM1BiZU0tTkN3VlBHU1VBaHJuNHFLRHJvX2hqcFplTWdhLU1ZRzBoaVdNRE8zNXVTc05WWmJXSUtPeFZIRHJBU05LajgwUDI4TXBQTjhhZmN5QQ?oc=5"
+    },
+    {
+      "sentAt": 1788106781340,
+      "topic": "全网最猛 AI 视频模型免费，实测「牛来」效果",
+      "headline": "免费 AI 视频模型实测：手搓「牛来」，效果能打吗？",
+      "sourceTitle": "刚刚，全网最猛AI视频模型免费了！我们手搓了一段「牛来」，效果绝了",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xZ3Y3Z29mWDBWczRZTjVjcy1OWGoxZ0htV1hOWUNEQkhHSGV4NVlDWFAwOHVwQUozZTl3Y1ByNzdha3d3cnVPX0pWRQ?oc=5"
+    },
+    {
+      "sentAt": 1788106781340,
+      "topic": "Wan 3.0 连续 3 天限时免费，SkyProduction 天工工作台价格战",
+      "headline": "Wan 3.0 限时免费 3 天！实测短剧制作，值不值得冲？",
+      "sourceTitle": "Wan 3.0连续3天限时免费！SkyProduction天工工作台再掀价格战",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PcTJXeWdkRjhoNnNOTHI3eF91YU05Z2x1aEpyNUZOb0ZQZWx2NUV5T21vU25ZUUQ4UGstbUlHWlNNM1BjUWVtVmR0Q3JIQ2dZejdlNUR3aXJnTEJxR01SeXZWNDY?oc=5"
+    },
+    {
+      "sentAt": 1788106781340,
+      "topic": "普通人能否用 AI 工具手搓出高质量短剧？",
+      "headline": "普通人用 AI 手搓短剧，到底行不行？",
+      "sourceTitle": "普通人能否用AI工具手搓出高质量短剧？",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zN3JzN0Z6MnFjc1JCbDRkaUNhRjdDZi1QR3FkUEY3dV94WnlhTzR6UUE3N2pabndBZDNkcWxPQWRfX1BPSndsdzU0dGx0bUI0c2gwZzNCTUZES1BVaFpjUF9wbVNmYVF6OGFMcUNKSVlQUG1Pdk8wSVIzd0NuZw?oc=5"
+    },
+    {
       "sentAt": 1788020770801,
       "topic": "Midjourney V8.2图像编辑模型实测：指令微调与画布扩展如何改变AI视频创作流程",
       "headline": "Midjourney V8.2实测：指令微调+画布扩展，AI视频分镜终于能改了",
@@ -146,34 +181,6 @@
       "headline": "豆包新任务模式实测：我的codex额度终于能省下来了",
       "sourceTitle": "实测豆包工作任务新模式，我那少得可怜的codex额度能省下来了",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBydmsxTUhOUHQzTDNCUU9zOTF5UzdFcVloLU1rTmhSbG1XcENFa1dXNi1KZFdYSTZjdlhyb0NKZEJWWVlvanJUal8zNm1uaGM4QmVBRVZEQm1TVHhIZ0VONmdB?oc=5"
-    },
-    {
-      "sentAt": 1786884295184,
-      "topic": "LTX-2.5 开放权重视频模型实测：6.8秒出片，本地可跑",
-      "headline": "6.8秒出片的开源视频模型 LTX-2.5，我实测后想说说真话",
-      "sourceTitle": "LTX-2.5实测解析：6.8秒出片，开放权重AI视频生成",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuOWVyX21odHZibkdGSDczZXZHdFNIQ1Y1QTkwLUQxTE9wM25HZG9fNV83UGRYY2xwMDFTQnhRQUJQUUhLMFE5VkRSN0FVSk9JT3BiU2dpWjMwekJvN2E3aHZqVDNGUQ?oc=5"
-    },
-    {
-      "sentAt": 1786884295184,
-      "topic": "AI 短片《反正也没时间活》创作拆解：从创意到成片",
-      "headline": "AI 短片《反正也没时间活》是怎么做出来的？我拆解了全流程",
-      "sourceTitle": "AI短片《反正也没时间活》是如何创作出来的？",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1adDJHVk05Ty15MC1KTmVfX0FWODBFU2RISExMQ01KOWtWel9YWkNhUFpzT3JrYzlrUGtRYWdtUUNQNkFUcVFUSmxNWjJyR2VLY1JuX08yOG1WLXZreWlMUjRYWVhwYlRYVHZYd3RjdWM1OWdSWGNZR3ZCdWwzS3c?oc=5"
-    },
-    {
-      "sentAt": 1786884295184,
-      "topic": "AI 短剧收益下滑，万播收益不足10元，行业进入大逃杀",
-      "headline": "万播收益不足10元，AI 短剧还能做吗？",
-      "sourceTitle": "万播收益降至10元内，破亿率不足0.5%，AI短剧开启“大逃杀”",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XOXhPN09hZ3lmWkV4TDFod3hoSl9NLVU5N1ZKc2hxWUduUW9XVG5IZ1JhUzlXOG1DZ25hSy1mUG1UaTRuajFUU3d5WUdPUVBPOGctanI0OA?oc=5"
-    },
-    {
-      "sentAt": 1786884295184,
-      "topic": "知识科普类 AI 视频工具推荐与实测",
-      "headline": "做知识科普视频，哪款 AI 工具最顺手？我实测了这几款",
-      "sourceTitle": "适合知识科普类内容的AI视频生成工具有哪些推荐？",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MNUNha2FSVlV0dlpXbWVUR3NFRjVBTjJUT1pDOTZaa0lSNThGUWtUaXdVTXZ2ZExDR2RLNlc1MHRNZUFrRVU1aTlJQzA4MmVNUEhTaVczUWU5Y2FGR0dfZjln?oc=5"
     }
   ]
 }
