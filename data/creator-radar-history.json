@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "sentAt": 1788202625835,
+      "topic": "千问创作Agent Teams上线，AI视频制作进入全自动团队协作时代",
+      "headline": "千问创作Agent Teams实测：一句话，AI帮你组队拍完整个视频？",
+      "sourceTitle": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZZFJkRzJCMmk3aU9DS29wNnFvX1FvV28yYTBENEpjR1pNUVh0YjktclVEMGJ0SXB2R0hXMFBHTTU1SmUwV3dFNzJLbVFNUQ?oc=5"
+    },
+    {
+      "sentAt": 1788202625835,
+      "topic": "Wan 3.0 Video实测：硬刚Seedance 2.5，视频模型新SOTA？",
+      "headline": "Wan 3.0 Video实测：硬刚Seedance 2.5，谁才是视频模型新王？",
+      "sourceTitle": "Wan 3.0 Video实测：硬刚Seedance 2.5，视频模型新SOTA来临？",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pbEVhc2dUMXFldk9VVXpsLVhidjM5NzZFRnh2enc1VzdKNUJ1RlZDWTNBeW14bDEzUm9TbmVOYTF6Yk5mbzEwX210aEVNSHhBaVBGaDlmX1M1WFZqZDQ3MzA5SHlVQVBOY2RwZjBQUC1qR2M?oc=5"
+    },
+    {
+      "sentAt": 1788202625835,
+      "topic": "播放量超5000万，“驯服AI做短剧”的翻车视频比AI短剧还火？",
+      "headline": "翻车视频比AI短剧还火？5000万播放背后的创作者真相",
+      "sourceTitle": "播放量超5000万，“驯服AI做短剧”的翻车视频比AI短剧还火？",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40ZHZNNVF3R3lXNzBhREs1TjBrc3VVZEJvRUxfWFdHQnJWbTlHcVBuMnpCM292elV6ZGRDZ3NtZG8tS3pIeXpKbE5Dbnp4cC1TQzBlXzNB?oc=5"
+    },
+    {
+      "sentAt": 1788202625835,
+      "topic": "AI生视频正在从云端搬回家里，本地部署成为新趋势？",
+      "headline": "AI生视频悄悄搬回家：本地部署，普通创作者的新选择？",
+      "sourceTitle": "AI 生视频，正在偷偷从云端「搬回」家里",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iNVNHNTZhSklYdm5jc1EyMEFweDVIbzRka2w4VjdyTjFBR3NxWHFNQzVTTExkZlA5MVhLTnE5VjB3ODFfZk9WaTc0ZWY?oc=5"
+    },
+    {
       "sentAt": 1788106781340,
       "topic": "谷歌 Gemini Omni 1.1 Flash 视频生成模型实测，最高支持 4K 分辨率",
       "headline": "谷歌 Gemini Omni 1.1 Flash 实测：4K 视频生成，普通创作者该换吗？",
