@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1788802344492,
+      "topic": "GPT-6 Astra与Blender结合制作15秒短片，普通创作者如何复现？",
+      "headline": "GPT-6 Astra + Blender实测：15秒短片，AI视频创作的新可能？",
+      "sourceTitle": "一条狗引发的 GPT-6 Astra + Blender 测试：15 秒短片，最后留下 6 秒",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wMmRNQ3ozUHFaYUx6bDQtQ0lHTDZHYllTQU9OTXl1N1I3cUZ4aFZHd2NGLVVDX1Vhc1RtTWl0UEJoUm1JME5EX2Y4UlNaanZJUFdPTG5B?oc=5"
+    },
+    {
+      "sentAt": 1788802344492,
+      "topic": "爆火AI短剧制作成本与流程拆解：一集1万元，一个镜头试四五十次",
+      "headline": "一集1万元、一个镜头试四五十次：爆火AI短剧的制作真相",
+      "sourceTitle": "一集花1万元、一个镜头试四五十次，这部爆火AI短剧是怎么做出来的？|libTV|聊斋|榨菜|阿牛|人物_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xcjRvWjczTkVlSW5QZ2w4U1ZqNFpEeHZoSWZ3MWI4TmszdXhxbzFmYnNNcU1BWWhqdXNzcV9SbU9FOUlEUTVEa0M3N0VQOVRFWlNwVFZGa25xWVdVLWtTbW1IajhmTzBOYjV2TXN3RktDczNINksydg?oc=5"
+    },
+    {
       "sentAt": 1788619830791,
       "topic": "StarAI用AI Agent覆盖短剧全流程，普通创作者如何借力？",
       "headline": "StarAI实测：AI Agent覆盖短剧全流程，普通人也能一键拍短剧？",
@@ -223,27 +237,6 @@
       "headline": "Wan3.0 价格降至 6 毛？AI 视频成本战开打",
       "sourceTitle": "Wan3.0发布，AI视频迎来“6毛”斩杀线？",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LVUdLWmVFQzhjMTl6YWFEejh2eDdMNHhTeWExNWE1Y1Z0OGw5RjRyUzJad05RUFZIX3ZfVndBMEcwZkdYczBzbENEZnVCZHMzQW80V01R?oc=5"
-    },
-    {
-      "sentAt": 1787576148565,
-      "topic": "阿里云Wan3.0正式版上线：原生单次生成30秒，文档直接转视频",
-      "headline": "阿里云Wan3.0正式版实测：文档一键变视频，30秒长镜头一次生成",
-      "sourceTitle": "阿里云Wan3.0正式版上线：原生单次生成30秒！文档直接转视频",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBcFMtS0dteVBwckRwZFJDcDdQSXk3TkNYeUdYZHJJbG9fY1VYVkNhM2lDZFJBa0thNzI5bExmb2hUMG1KeWVBd2ZjV2x1S2VMY2JQVGwzTzk?oc=5"
-    },
-    {
-      "sentAt": 1787576148565,
-      "topic": "MiniMax H3的Harness案例：创作猫片、复刻《黑神话：钟馗》",
-      "headline": "用MiniMax H3做猫片、复刻《黑神话：钟馗》？Harness实操拆解",
-      "sourceTitle": "创作“猫片”、复刻《黑神话：钟馗》，最适合MiniMax H3的Harness来了",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDMEtOSHhzcjdPejNCU3J0QmtLdnlzNU5VaDdTWXoybVRBLW1LUDJCZDdXTTdmQXFkTTdwUWpSR2VrZ3plVXFCdA?oc=5"
-    },
-    {
-      "sentAt": 1787576148565,
-      "topic": "万兴科技全新推出AI画布工作台",
-      "headline": "万兴AI画布工作台实测：视频创作还能更简单吗？",
-      "sourceTitle": "万兴科技全新推出AI画布工作台",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rTEc1OC04U0d0M0dlMkJGeVlCRWY3cTRYb2Y4d0U3Q0hoaU9YeFF6U05YSU5aVHRSRjROUmNmMHFOZ0xGQXo3TVJsN1ZXX2VZRXZKXzdydnQ2ZUR1QU1FNll1bE5zbWVOOUVUcjMxRnVWZWpNbXRr?oc=5"
     }
   ]
 }
