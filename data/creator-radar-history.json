@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "sentAt": 1789056230007,
+      "topic": "vivago R1 实测：用“无限时长”生成一条60秒以上的连续短片，重点看长镜头里人物和场景是否还能稳住",
+      "headline": "“无限时长”AI视频来了：我做了条60秒短片，第几秒开始崩？",
+      "sourceTitle": "实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4xTlJEeGlIcU1VRkg1TmZZZDBDTWJhM283b1F4bkpCd2UwRUJtMkJ3YWZsbFJ2eFhLZl9BRkstSlRQZjQ?oc=5"
+    },
+    {
+      "sentAt": 1789056230007,
+      "topic": "同一款 vivago R1 的另一种写法：把《华强买瓜》这类经典桥段当测试脚本，看AI能不能接住有台词、有情绪的连续剧情",
+      "headline": "用AI重拍《华强买瓜》：60秒连续剧情，它接得住吗？",
+      "sourceTitle": "“无限时长”AI视频生成来了，我用vivago R1，做了个60秒的《华强买瓜》-yeeyi",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lR1U2aWhpY2xGNGhmTldmdTlhNWp4M3JLUkNqbzRxNF9jc253bUd0aUVmNi00ZDVlazVWOG9maGtTM2lnWlZXbk1mZkVQbS1VZkxOUmFn?oc=5"
+    },
+    {
+      "sentAt": 1789056230007,
+      "topic": "Adobe Premiere 时间线内直接生成音视频素材，对做AI短剧的人意味着剪辑环节可以少跳几个软件",
+      "headline": "Premiere 能在时间线上直接生成素材了，AI短剧剪辑能少几步？",
+      "sourceTitle": "Adobe Premiere更新AI功能，时间线上能直接生成音视频素材",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTM3X2t6b1VqdmkzY096LXc4cnVnRjJfalVPYmM1cDFwTzFjYThfMHRhcDNHazBpaFBaNDF2c2hNc0ZsU3phNnEzeUtxbTFVdG5aQU9WamNHSFVPT1ZMaGFFQ0dIUkpuaHJ6eW5MS2U5OWlyOTVxajFhWDlPaGF6enNUUHMtQTlW?oc=5"
+    },
+    {
+      "sentAt": 1789056230007,
+      "topic": "Plask 实测：不用动捕服，把普通视频转成 FBX 动捕数据，用于AI角色动画和分镜预演",
+      "headline": "不用动捕服：一段手机视频转成FBX，AI角色动画能省多少事？",
+      "sourceTitle": "Plask 评测 – 无需动捕服即可将视频转换为 FBX",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jbkpWNDE4NkFVYmdkSHk0OV80WjM2dnhDSlkweUZTeWNrMXBTVlpjYmVBTW1PaW81LS14bnUzQVUxLXN4dGdRTmpEaw?oc=5"
+    },
+    {
+      "sentAt": 1789056230007,
+      "topic": "AI短剧月产4.7万部背后的“管线”战：字节、商汤下场后，普通创作者的流程该怎么摆",
+      "headline": "月产4.7万部AI短剧：管线战打起来，个人创作者还拼什么？",
+      "sourceTitle": "疯狂的AI短剧月产4.7万部，隐形“管线”战打响，字节商汤已下场",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN3Q1OXkwR3V2cUx4VVhoVlJoZTFPOEZpUUF3azZnU0ZoYS0wcVFSMzVJZzM4NTdvM09sMjhZTDBoVmV0Ni0tSGs5aWpOQmxxdFQwV05MTjYyd1dfOEpJd3FVVmxsUU9xTXllMGpJZ1BKWWZyd2JaOVlSRzVIT2JEU25xVTRKQ1VON1E?oc=5"
+    },
+    {
       "sentAt": 1788802344492,
       "topic": "GPT-6 Astra与Blender结合制作15秒短片，普通创作者如何复现？",
       "headline": "GPT-6 Astra + Blender实测：15秒短片，AI视频创作的新可能？",
