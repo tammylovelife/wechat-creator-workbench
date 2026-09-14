@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1789408499093,
+      "topic": "GPT-Image-2.5 实测：画质不再卷，速度成了新卖点，对 AI 短剧分镜出图意味着什么",
+      "headline": "画质卷到头之后：GPT-Image-2.5 把“快”当卖点，分镜出图能省多少时间？",
+      "sourceTitle": "GPT-Image-2.5 实测：画质卷到头之后，“快”成为突破点丨302.AI -",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FbUtCYkRBSTBkUW1Ya2t5c3dFS29adDFrNmVVUFc3Ul83VFNSanpJckxkNDB5WjRrTjU0ZmNuU3d3alpaN1pYbGR4UGtRa250SjdnOGxmZ3lybmJSalphSVpVTlJqNkQxYmJpcTRSNXFjSzQ?oc=5"
+    },
+    {
+      "sentAt": 1789408499093,
+      "topic": "RunningHub 办首个 AIGC 长片大赛，单项奖 100 万、科幻 IP 免费改编，普通创作者该不该报",
+      "headline": "单项奖 100 万：RunningHub 的 AIGC 长片大赛，普通人够得着吗？",
+      "sourceTitle": "首个AIGC长片大赛！RunningHub设单项大奖100万现金，科幻IP免费改编-yeeyi",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvTXgxdWRWTXN5dEZURlphMTJIUnQ3ZlVNek9id1QtWC1XNVduTVViOXBNMVJhRWtKd1dUMm0tczVud3lPODVLLXhSNldJMWd5ekhMR3ln?oc=5"
+    },
+    {
       "sentAt": 1789314658647,
       "topic": "RunningHub开源方案把15秒视频生成压到54秒，普通创作者怎么用它缓解排队等待",
       "headline": "15秒视频54秒出片：AI视频的排队焦虑，真被这套开源方案治好了吗？",
@@ -209,41 +223,6 @@
       "headline": "AI生视频悄悄搬回家：本地部署，普通创作者的新选择？",
       "sourceTitle": "AI 生视频，正在偷偷从云端「搬回」家里",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iNVNHNTZhSklYdm5jc1EyMEFweDVIbzRka2w4VjdyTjFBR3NxWHFNQzVTTExkZlA5MVhLTnE5VjB3ODFfZk9WaTc0ZWY?oc=5"
-    },
-    {
-      "sentAt": 1788106781340,
-      "topic": "谷歌 Gemini Omni 1.1 Flash 视频生成模型实测，最高支持 4K 分辨率",
-      "headline": "谷歌 Gemini Omni 1.1 Flash 实测：4K 视频生成，普通创作者该换吗？",
-      "sourceTitle": "谷歌推出Gemini Omni 1.1 Flash视频生成模型，最高4K分辨率-yeeyi",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNld1NWhTUjdod1NuM2pBY0h2VF9KOEZneXo4Q1RvLVVZbHZNZnBJaDZqRGZOdVJiTnZSVlI0QlN6Ull1OHNLbUppby1idW9jX3hGd2Vn?oc=5"
-    },
-    {
-      "sentAt": 1788106781340,
-      "topic": "AI 短剧《The Accident》制作流程拆解",
-      "headline": "拆解 AI 短剧《The Accident》：从剧本到成片，用了哪些工具？",
-      "sourceTitle": "《The Accident》这部AI短剧是如何制作出来的？",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JcU9sVjFzaVhlWFEyZ29yUVpGYlh6eWx0dk5YLS0tYTBkMUxkM1BiZU0tTkN3VlBHU1VBaHJuNHFLRHJvX2hqcFplTWdhLU1ZRzBoaVdNRE8zNXVTc05WWmJXSUtPeFZIRHJBU05LajgwUDI4TXBQTjhhZmN5QQ?oc=5"
-    },
-    {
-      "sentAt": 1788106781340,
-      "topic": "全网最猛 AI 视频模型免费，实测「牛来」效果",
-      "headline": "免费 AI 视频模型实测：手搓「牛来」，效果能打吗？",
-      "sourceTitle": "刚刚，全网最猛AI视频模型免费了！我们手搓了一段「牛来」，效果绝了",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xZ3Y3Z29mWDBWczRZTjVjcy1OWGoxZ0htV1hOWUNEQkhHSGV4NVlDWFAwOHVwQUozZTl3Y1ByNzdha3d3cnVPX0pWRQ?oc=5"
-    },
-    {
-      "sentAt": 1788106781340,
-      "topic": "Wan 3.0 连续 3 天限时免费，SkyProduction 天工工作台价格战",
-      "headline": "Wan 3.0 限时免费 3 天！实测短剧制作，值不值得冲？",
-      "sourceTitle": "Wan 3.0连续3天限时免费！SkyProduction天工工作台再掀价格战",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PcTJXeWdkRjhoNnNOTHI3eF91YU05Z2x1aEpyNUZOb0ZQZWx2NUV5T21vU25ZUUQ4UGstbUlHWlNNM1BjUWVtVmR0Q3JIQ2dZejdlNUR3aXJnTEJxR01SeXZWNDY?oc=5"
-    },
-    {
-      "sentAt": 1788106781340,
-      "topic": "普通人能否用 AI 工具手搓出高质量短剧？",
-      "headline": "普通人用 AI 手搓短剧，到底行不行？",
-      "sourceTitle": "普通人能否用AI工具手搓出高质量短剧？",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zN3JzN0Z6MnFjc1JCbDRkaUNhRjdDZi1QR3FkUEY3dV94WnlhTzR6UUE3N2pabndBZDNkcWxPQWRfX1BPSndsdzU0dGx0bUI0c2gwZzNCTUZES1BVaFpjUF9wbVNmYVF6OGFMcUNKSVlQUG1Pdk8wSVIzd0NuZw?oc=5"
     }
   ]
 }
