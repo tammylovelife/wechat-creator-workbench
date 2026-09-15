@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1789490060850,
+      "topic": "智象发布首款“物理规律导向”视频模型，普通创作者能不能用它解决AI视频里最烦的物理崩坏（杯子穿手、水不流、物体飘）",
+      "headline": "AI视频最假的地方，被这个新模型盯上了：物理规律导向，实测到底稳不稳",
+      "sourceTitle": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3clVkcmVoUmJYUWEyU1JjS0pxYzRBWWxESE5VOElBUFJjUy1Va2lIaUNnSy1xajJjMHAybVVIbmFIZjlEbGdWcEdLU1NHcmZCMnp0NGE2S1ZTcFlMdWFObUw2Qzc?oc=5"
+    },
+    {
+      "sentAt": 1789490060850,
+      "topic": "一个学生用4天做出一条AI短片，从京东拿走3万元奖金：拆解他的时间分配、工具链和取舍",
+      "headline": "4天、一条AI短片、3万奖金：这个学生的时间表，普通人抄得动吗",
+      "sourceTitle": "这个学生，用4天做的AI短片，从京东拿走30000元！",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsNjAxR01PM191cFh1ejF0WG9UT1hWX0Mza1VXaVl1ZGRVRHh6algxYWRWbFZUR0g2bXd6bmYyMTQzcUxrVGQteg?oc=5"
+    },
+    {
       "sentAt": 1789408499093,
       "topic": "GPT-Image-2.5 实测：画质不再卷，速度成了新卖点，对 AI 短剧分镜出图意味着什么",
       "headline": "画质卷到头之后：GPT-Image-2.5 把“快”当卖点，分镜出图能省多少时间？",
@@ -195,34 +209,6 @@
       "headline": "星映实测：拒绝当AI的“连线苦力”，普通人也能当导演？",
       "sourceTitle": "拒绝给AI当“连线苦力”！星映：把复杂留给算法，把导演椅还给普通人",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tbGJKWXB3dUZzSFFlTThMbHRQRy1GYUc0TE01YTM0VG4wUFJIWldZTVR3cHFsa0hNNTlmNzBuZ2tPZzlKSDEzX2VweEdrUTlvM1FBa0c1OGF6SW9FRlZFZQ?oc=5"
-    },
-    {
-      "sentAt": 1788202625835,
-      "topic": "千问创作Agent Teams上线，AI视频制作进入全自动团队协作时代",
-      "headline": "千问创作Agent Teams实测：一句话，AI帮你组队拍完整个视频？",
-      "sourceTitle": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZZFJkRzJCMmk3aU9DS29wNnFvX1FvV28yYTBENEpjR1pNUVh0YjktclVEMGJ0SXB2R0hXMFBHTTU1SmUwV3dFNzJLbVFNUQ?oc=5"
-    },
-    {
-      "sentAt": 1788202625835,
-      "topic": "Wan 3.0 Video实测：硬刚Seedance 2.5，视频模型新SOTA？",
-      "headline": "Wan 3.0 Video实测：硬刚Seedance 2.5，谁才是视频模型新王？",
-      "sourceTitle": "Wan 3.0 Video实测：硬刚Seedance 2.5，视频模型新SOTA来临？",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pbEVhc2dUMXFldk9VVXpsLVhidjM5NzZFRnh2enc1VzdKNUJ1RlZDWTNBeW14bDEzUm9TbmVOYTF6Yk5mbzEwX210aEVNSHhBaVBGaDlmX1M1WFZqZDQ3MzA5SHlVQVBOY2RwZjBQUC1qR2M?oc=5"
-    },
-    {
-      "sentAt": 1788202625835,
-      "topic": "播放量超5000万，“驯服AI做短剧”的翻车视频比AI短剧还火？",
-      "headline": "翻车视频比AI短剧还火？5000万播放背后的创作者真相",
-      "sourceTitle": "播放量超5000万，“驯服AI做短剧”的翻车视频比AI短剧还火？",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40ZHZNNVF3R3lXNzBhREs1TjBrc3VVZEJvRUxfWFdHQnJWbTlHcVBuMnpCM292elV6ZGRDZ3NtZG8tS3pIeXpKbE5Dbnp4cC1TQzBlXzNB?oc=5"
-    },
-    {
-      "sentAt": 1788202625835,
-      "topic": "AI生视频正在从云端搬回家里，本地部署成为新趋势？",
-      "headline": "AI生视频悄悄搬回家：本地部署，普通创作者的新选择？",
-      "sourceTitle": "AI 生视频，正在偷偷从云端「搬回」家里",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iNVNHNTZhSklYdm5jc1EyMEFweDVIbzRka2w4VjdyTjFBR3NxWHFNQzVTTExkZlA5MVhLTnE5VjB3ODFfZk9WaTc0ZWY?oc=5"
     }
   ]
 }
