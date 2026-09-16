@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1789576001727,
+      "topic": "Vidu S2 的“实时改视频”对 AI 短剧分镜返工的实用价值",
+      "headline": "改一句台词不用整条重跑？Vidu S2 的实时改视频，短剧返工能省多少事",
+      "sourceTitle": "实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CdDdBNW9Gbi1UX2pUV2wxS2hZLWVkUm9lVlZZTGQyRE9DQk83SFZTODNWTmN1UERZX0VvUjlMRHBZU0diNUFOSw?oc=5"
+    },
+    {
+      "sentAt": 1789576001727,
+      "topic": "用 Codex 从零自动剪出一条 2 分 54 秒知识视频的流程拆解",
+      "headline": "我用 Codex 自动剪出一条近3分钟视频：哪些步骤真能交给它，哪些还得自己来",
+      "sourceTitle": "我用Codex 从零到一，自动剪出了一条2 分 54 秒的知识视频| 诺诺(@shenghouxuyao) on X",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16VXFTOXFIUE5ZTkFLX2cwWnRuRTZvOTZxYTdPQ2VvRDZDb2hUalJkcjVfTTJOaHpKLVROWUE0X1M0Y3hKaU1TR29mODVVbGNrakdBMkhB?oc=5"
+    },
+    {
       "sentAt": 1789490060850,
       "topic": "智象发布首款“物理规律导向”视频模型，普通创作者能不能用它解决AI视频里最烦的物理崩坏（杯子穿手、水不流、物体飘）",
       "headline": "AI视频最假的地方，被这个新模型盯上了：物理规律导向，实测到底稳不稳",
