@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "sentAt": 1789662801730,
+      "topic": "智象 HiDream-O1-Video 实测：视频生成开始理解真实世界，对 AI 短剧里动作与物理崩坏意味着什么",
+      "headline": "视频模型开始懂真实世界了？我拿说唱和绝杀镜头测了智象新模型",
+      "sourceTitle": "实测智象HiDream-O1-Video视频模型：嘻哈说唱、NBA绝杀，视频生成开始理解真实世界",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NYnp1REt1Wk1QN2JtZXVwSVpyOTZmTURKM212MDh0ZUJyblJwVFJLOWtrMWZnd2U3d2g4LUtxRDJpdllibUE?oc=5"
+    },
+    {
+      "sentAt": 1789662801730,
+      "topic": "PixTV AI 从剧本到成片的一站式流程实测：多模型聚合对个人短剧工作流的实际价值",
+      "headline": "从剧本到成片一个工具搞定？PixTV AI 实测，我盯的是角色第几镜开始崩",
+      "sourceTitle": "PixTV AI上线：从剧本到成片的一站式AI视频创作工具",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZVWIxR05DZng4WWVMc1NfeF9rZ0ctcVFXdEY1UWxLY2lsSlpJMmxiWGNaZUZMRUl5WHNIa3dPN2w3ajZwbGpNdnVXUm5taF96Nlc4SjFiOUY?oc=5"
+    },
+    {
+      "sentAt": 1789662801730,
+      "topic": "《后西游记》总导演两小时对谈里透露的 AI 长剧工作流：分镜、角色一致性、返工环节怎么排",
+      "headline": "和《后西游记》总导演聊完，我把 AI 长剧的工作流拆成了一张表",
+      "sourceTitle": "与总导演对谈两小时，把AI长剧《后西游记》的工作流摸清了",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mdHhLanRxckJpaVdLZ01qSVRxMVI4UTc3c2VtRVBmcmVRZXJ0TlI2dkI5MUlkdWtyMk1TSVRlaHVOY2t0bXpvbm1vRTFpMms2aktoOTJpMl84aGR5UFpNcnNmalhVclQ3NlM0MzBOamM?oc=5"
+    },
+    {
       "sentAt": 1789576001727,
       "topic": "Vidu S2 的“实时改视频”对 AI 短剧分镜返工的实用价值",
       "headline": "改一句台词不用整条重跑？Vidu S2 的实时改视频，短剧返工能省多少事",
@@ -195,34 +216,6 @@
       "headline": "MiniMax vs 阿里视频Agent：拼完模型，开始拼工作流？",
       "sourceTitle": "MiniMax、阿里同时布局视频Agent，拼完模型开始拼工作流？",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1Q1ZuNUg0YWNXOC1BemZNM2txcS1ickVsOXVvMGZNMFVXMUtYYmZyeG0wX3lkR21FZVJuckRPS0NzTnA2SXkxN1BtbXNrSlJQVFBDSVZB?oc=5"
-    },
-    {
-      "sentAt": 1788451423323,
-      "topic": "千问创作上线Wan3.0，价格降至0.26元/秒，实测短剧制作成本与效果",
-      "headline": "千问创作上线Wan3.0，0.26元/秒，AI短剧成本还能再降？",
-      "sourceTitle": "0.26元/秒！千问创作上线Wan3.0，AI短剧的春天来了",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iVzJaWkMtWnNWTWt6cnFtYldUV2k0WFFrNWZmYlNyeUVWRkI2RmRxWVhWMVBIcVlIRDRLM0tpaG5ib3FDOXFkRHZOaUh4OHprRFZkd2FsOGQzNnc?oc=5"
-    },
-    {
-      "sentAt": 1788451423323,
-      "topic": "首部AIGC长剧《后西游记》幕后拆解：百人团队、单集成本90万，普通创作者能学到什么？",
-      "headline": "单集90万！《后西游记》导演揭秘AI长剧幕后，普通人能偷师什么？",
-      "sourceTitle": "首部AIGC长剧《后西游记》总导演李东珅揭秘幕后：百人团队、单集成本90万",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lSVQ2TEY5dEN6STdIYTI2bWtZSGJuekRRRG5ndmNuQjRkNGlxVnVtekNSWURYbHFBLUNqaUYxMUVPRnFmSjFZTWdQalBrNF9PYzhGRG9RbW8teU1jeWc?oc=5"
-    },
-    {
-      "sentAt": 1788451423323,
-      "topic": "ShortsCrew发布：AI影视团队协作新模式，或改变短剧制作流程",
-      "headline": "ShortsCrew实测：AI短剧团队协作的新玩法，一个人也能当剧组？",
-      "sourceTitle": "ShortsCrew发布！或重构AI影视团队协作模式",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZZHg5UFJRWEhsbGdCNEJSbEdsd3Q1S1dIWDRUU1NCMWY3V0dHYm5IZTd2Vy1xOURrdHdlMTdMQnk2cDhTQWdYemlkQVVlT0pKcFE?oc=5"
-    },
-    {
-      "sentAt": 1788451423323,
-      "topic": "星映：把导演椅还给普通人，AI视频制作新工具实测",
-      "headline": "星映实测：拒绝当AI的“连线苦力”，普通人也能当导演？",
-      "sourceTitle": "拒绝给AI当“连线苦力”！星映：把复杂留给算法，把导演椅还给普通人",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tbGJKWXB3dUZzSFFlTThMbHRQRy1GYUc0TE01YTM0VG4wUFJIWldZTVR3cHFsa0hNNTlmNzBuZ2tPZzlKSDEzX2VweEdrUTlvM1FBa0c1OGF6SW9FRlZFZQ?oc=5"
     }
   ]
 }
