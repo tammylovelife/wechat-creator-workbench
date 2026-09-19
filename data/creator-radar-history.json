@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1789832219739,
+      "topic": "Vidu S2 论文里的实时720P数字人生成与视频编辑，对AI短剧口型和返工意味着什么",
+      "headline": "Vidu S2的论文里藏了两件事：实时数字人管口型，实时编辑管返工",
+      "sourceTitle": "论文周报丨Vidu S2实现实时720P数字人生成与视频编辑；NCP-ArchPreview探索LLM隐空间预训练新范式...速览一周AI前沿论文",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MMlVoMjcxNTdsb2pveDRKSHl0U0tiWDA5dmc1dnhrdVhEWVd0T1c3NlR5bGZkUXVoV0JIUkU1bXBIU2k5ODQzdA?oc=5"
+    },
+    {
+      "sentAt": 1789832219739,
+      "topic": "一周拍完74集出海短剧的创作者说“最贵的成本不是算力”，拆解他真正花时间的地方",
+      "headline": "一周74集出海短剧：他说最贵的不是算力，那到底贵在哪",
+      "sourceTitle": "一周拍完74集出海短剧，他说AI视频最贵的成本根本不是算力",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3STl1QzhfbmJhRElIdERiLUdBbEpVeXc5cHBYQmc1X2Z4cEEtOHQ5QjdkNGhVOUpCYzFZSDRjMzhYNHZudXhneHVHVk82QkdOMDJrOEl3MThDaHl0Snp1VTBWbUlYdWtOOVJUWi0wQm1VbEdTNEU2a1pEZnRoYVE?oc=5"
+    },
+    {
       "sentAt": 1789662801730,
       "topic": "智象 HiDream-O1-Video 实测：视频生成开始理解真实世界，对 AI 短剧里动作与物理崩坏意味着什么",
       "headline": "视频模型开始懂真实世界了？我拿说唱和绝杀镜头测了智象新模型",
@@ -146,41 +160,6 @@
       "headline": "一集1万元、一个镜头试四五十次：爆火AI短剧的制作真相",
       "sourceTitle": "一集花1万元、一个镜头试四五十次，这部爆火AI短剧是怎么做出来的？|libTV|聊斋|榨菜|阿牛|人物_手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xcjRvWjczTkVlSW5QZ2w4U1ZqNFpEeHZoSWZ3MWI4TmszdXhxbzFmYnNNcU1BWWhqdXNzcV9SbU9FOUlEUTVEa0M3N0VQOVRFWlNwVFZGa25xWVdVLWtTbW1IajhmTzBOYjV2TXN3RktDczNINksydg?oc=5"
-    },
-    {
-      "sentAt": 1788619830791,
-      "topic": "StarAI用AI Agent覆盖短剧全流程，普通创作者如何借力？",
-      "headline": "StarAI实测：AI Agent覆盖短剧全流程，普通人也能一键拍短剧？",
-      "sourceTitle": "AI Agent覆盖短剧全流程，StarAI拓展内容生产场景",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RRWhNeVJnX0IybjY4bjNZMkJTZHFua0hoM1Qwc3FjMVA4Z1dlMExQbUVfbVQ4WEJ5dGh3OGk4LUNFdlhRUDJiMzlaX0dDRjND?oc=5"
-    },
-    {
-      "sentAt": 1788619830791,
-      "topic": "LibTV帮创作者快速上手Seedance 2.5，新模型学习成本大降",
-      "headline": "Seedance 2.5不会用？LibTV实测：新模型上手成本大降",
-      "sourceTitle": "Seedance 2.5 上线后，LibTV 先帮创作者「学会」了新模型",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsR0xjOXZILVAzOEU2aHl2TmlkeElFVFVYYXdNYU9WdWd0aUFUdnNOa0xXbmpsZ0V3T2JBUTFOR2tDanVadW8tNVRsNC1qMnhQcEEwc0RWWDVXa2c?oc=5"
-    },
-    {
-      "sentAt": 1788619830791,
-      "topic": "哪个AI短视频平台人物形象更稳定？横向对比实测",
-      "headline": "AI短视频平台人物形象稳定性横评：谁的脸不崩？",
-      "sourceTitle": "哪个AI短视频平台人物形象更稳定？",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IaHNDWE8tODVGd1VmQ3JPdHcxYzhENE9lb09fZ0NJb1N5Q1FxZDlqWVptaGt5ZVJuQkY2N3IwMHFXdXlaSEJhajYxVFhxbDBIdUhyTXEtSFI?oc=5"
-    },
-    {
-      "sentAt": 1788619830791,
-      "topic": "中国儒意连推三款AI产品，首次打通AI创作链路，对短剧创作者意味着什么？",
-      "headline": "中国儒意三款AI产品实测：AI短剧创作链路打通了？",
-      "sourceTitle": "中国儒意连推三款AI产品，首次打通AI创作链路｜独家",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmJZQWUwQ3NhWWxka2I1ZHcyMjFfNk5GMzNlUThVVUdod2QtaGcwUjV3eWtoREtIbkhzTjhrbVN6MWdKNkZkdkNfZFVITUJQQ3U2UzdIMGV1djVMNkFVN3NPcGhJSkQ4NnRUMWE4RzkzWjVDb1UtVC1JVVVaaW03ZmYzZWpwY1JUQlN0UlZ1WVFCbERGcGFHUnlxai02dDUwaHpPRHVGRC1GZEwzYUViVGp3?oc=5"
-    },
-    {
-      "sentAt": 1788619830791,
-      "topic": "SkyProduction天工工作台：从剧本到成片，精品短剧创作流程实测",
-      "headline": "天工工作台实测：从剧本到成片，AI短剧制作能跑通吗？",
-      "sourceTitle": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ1RZdlVzdFhKLVlmS19idHpqZFprNTktUTNQQ3hRamZLRzB2TmFpSEdwaUtIeVd6bF9XTGVsYnpCczI5TXVqX1YyOC03dTdaWE5heDhRaUEzQ2ZQOVdDd1BTdmd3S0F5MWRFSENjSVRMTGoyTmtNYWNLaktON25vTmVSYkZCMjFr?oc=5"
     }
   ]
 }
