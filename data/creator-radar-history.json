@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "sentAt": 1789918939594,
+      "topic": "Qwen3.8-Omni-Flash 的 1M 上下文与多模态能力，对 AI 短剧创作者意味着什么：能不能一次丢进整季剧本加参考图，让它直接输出分镜表",
+      "headline": "1M 上下文的通义新模型，能一口气读完我一整季短剧剧本吗？",
+      "sourceTitle": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FdEZWcUZpd2dWRW9pOFBRdkJFcDlGaWtpOFl1QUl6Rl9PeGR3MUNwVms1ZW5hckI5MEs3N3BwYV9xSUJFZFJxRkhIdkZqQQ?oc=5"
+    },
+    {
+      "sentAt": 1789918939594,
+      "topic": "AI MediaKit 的视频字幕无痕擦除，对 AI 短剧二创和素材复用的实际价值：擦掉原字幕再配自己的台词",
+      "headline": "原片字幕擦不干净？我试了 AI MediaKit 的无痕擦除，短剧二创能省一步",
+      "sourceTitle": "从“看见文字”到“读懂画面”：AI MediaKit 如何实现视频字幕无痕擦除 - InfoQ-CN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xVUU1ckxvdXZPQ1g4aFFsZkNoNlR1SkhONjdHS25GVkZzYS1lTkE1a2ctM2k2clRjdXA3N2FYazktWDZ6aFpLeVhMMFo2MjdFVnNrNlpNTGc4dw?oc=5"
+    },
+    {
+      "sentAt": 1789918939594,
+      "topic": "Qwen3.8-Omni-Flash 把多模态押在\"干活\"上，对普通创作者工具链的启发：一个模型同时处理图、文、音，能否减少在多个工具间跳转",
+      "headline": "多模态不再比谁聊得好：通义新模型说它要\"干活\"，我的流程能少几步？",
+      "sourceTitle": "Qwen3.8-Omni-Flash 发布，阿里通义把多模态押在了“干活”上 - OSCHINA - 开源 × AI · 开发者生态社区",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBneGxTWlJDQmpuLXpkVkFXR0FHWjNrTjdaRjRpeGRJSXM4a0c5YWh4TkN6Yk1IU3Y1ZXY4NTFlb2NWVEpFYkI2TURaMHdERlp3YTUxNDNrWFdubVEwQkpDdl9qUnBzdw?oc=5"
+    },
+    {
       "sentAt": 1789832219739,
       "topic": "Vidu S2 论文里的实时720P数字人生成与视频编辑，对AI短剧口型和返工意味着什么",
       "headline": "Vidu S2的论文里藏了两件事：实时数字人管口型，实时编辑管返工",
