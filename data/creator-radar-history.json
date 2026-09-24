@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "sentAt": 1790268404405,
+      "topic": "字节海外AI短剧平台Dramagic上线，普通短剧创作者能不能用、值不值得试",
+      "headline": "字节在海外悄悄上线AI短剧平台Dramagic：我注册试了一遍，它能替我做掉哪几步？",
+      "sourceTitle": "字节在海外推出AI短剧制作平台Dramagic！AI工具加速出海：让外币变成中国AI积分",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jbFlQdWN5VUdGU2N5UWhpRjJEdFRmWkwtbkRRdXFQT1M4V29GUVFDbFgycUVNZlltb2JJb25kQ2lZT25TSlpSamNUQXN5eW4xT0FwMmNCYnkzUW9Fdnc?oc=5"
+    },
+    {
+      "sentAt": 1790268404405,
+      "topic": "剪映杀入AI互动影游，对做AI短剧的人意味着什么新玩法",
+      "headline": "剪映不做短剧改做互动影游了？这个方向对普通AI创作者是机会还是坑",
+      "sourceTitle": "剪映，杀入 AI 互动影游",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xMVZET0U2b24wUE5SRDEzRVhPVDZ1cGFFUnRoX3Q2V3FGMTd3aU5uUjdBZ05LZ1prVTg5MTBXam5ZbERQZlRBTVdaem0?oc=5"
+    },
+    {
+      "sentAt": 1790268404405,
+      "topic": "RxFilm Studio开源：AI Agent从脚本到成片包办产品营销视频，短剧流程能抄哪几步",
+      "headline": "又一个开源Agent从脚本包办到成片：它的分工表，短剧创作者能抄哪几行？",
+      "sourceTitle": "RxFilm Studio开源亮相：AI Agent从脚本到成片包办产品营销视频",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RZFhGc2ZNNWEwRDd0TWJYTDc0emN6a1J5WHRrb0x3ejBRWmZqcW5Xc0pWc0dhSWp4QlNTRndFSWpwN29YeEdMZzQ1UXl0cUZqNzBNc2ttMmhUMTRmYjVIOG1qRTg?oc=5"
+    },
+    {
+      "sentAt": 1790268404405,
+      "topic": "YouTube极简火柴人搞钱流水线开源，低成本内容表达对AI短剧的启发",
+      "headline": "极简火柴人流水线被开源了：画风越简单越跑量，AI短剧该不该也做减法？",
+      "sourceTitle": "爆款复刻｜YouTube 极简火柴人搞钱流水线，优质内容心法 + 全套工作流，被我一键开源啦！",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XcVVxRTAwMUZrTlM1cXZSeFNycmZfcFhSTGJyODlhZGoxajJqcERhbmZ2M2I2T3pMU1ROeWl6YzcyREk1OFJBV3ZVRUh5RzcwZ05hZktB?oc=5"
+    },
+    {
       "sentAt": 1790094877915,
       "topic": "真人实拍结合AI的古装剧《行镖》把全套制作流程和资产库开源了，普通创作者能直接抄哪几步",
       "headline": "真人实拍加AI的古装剧，把制作流程和资产库都公开了：哪几步我能直接抄",
@@ -181,41 +209,6 @@
       "headline": "1000秒AI漫剧平台来了，长时长是真需求还是噱头？",
       "sourceTitle": "来画发布全国首个支持1000秒AI漫剧平台，一键生成IM体育官方网址首页动漫短片",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqQUdHWTBHdW9fMzJvZFhXTDYweWhpTnZrQ1FsTk05SW1NLU5sWUdYQmxMVUI3bHczaXBNTTJxVmFGQ1J1YkVvRlZLcWhtUQ?oc=5"
-    },
-    {
-      "sentAt": 1789056230007,
-      "topic": "vivago R1 实测：用“无限时长”生成一条60秒以上的连续短片，重点看长镜头里人物和场景是否还能稳住",
-      "headline": "“无限时长”AI视频来了：我做了条60秒短片，第几秒开始崩？",
-      "sourceTitle": "实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4xTlJEeGlIcU1VRkg1TmZZZDBDTWJhM283b1F4bkpCd2UwRUJtMkJ3YWZsbFJ2eFhLZl9BRkstSlRQZjQ?oc=5"
-    },
-    {
-      "sentAt": 1789056230007,
-      "topic": "同一款 vivago R1 的另一种写法：把《华强买瓜》这类经典桥段当测试脚本，看AI能不能接住有台词、有情绪的连续剧情",
-      "headline": "用AI重拍《华强买瓜》：60秒连续剧情，它接得住吗？",
-      "sourceTitle": "“无限时长”AI视频生成来了，我用vivago R1，做了个60秒的《华强买瓜》-yeeyi",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lR1U2aWhpY2xGNGhmTldmdTlhNWp4M3JLUkNqbzRxNF9jc253bUd0aUVmNi00ZDVlazVWOG9maGtTM2lnWlZXbk1mZkVQbS1VZkxOUmFn?oc=5"
-    },
-    {
-      "sentAt": 1789056230007,
-      "topic": "Adobe Premiere 时间线内直接生成音视频素材，对做AI短剧的人意味着剪辑环节可以少跳几个软件",
-      "headline": "Premiere 能在时间线上直接生成素材了，AI短剧剪辑能少几步？",
-      "sourceTitle": "Adobe Premiere更新AI功能，时间线上能直接生成音视频素材",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTM3X2t6b1VqdmkzY096LXc4cnVnRjJfalVPYmM1cDFwTzFjYThfMHRhcDNHazBpaFBaNDF2c2hNc0ZsU3phNnEzeUtxbTFVdG5aQU9WamNHSFVPT1ZMaGFFQ0dIUkpuaHJ6eW5MS2U5OWlyOTVxajFhWDlPaGF6enNUUHMtQTlW?oc=5"
-    },
-    {
-      "sentAt": 1789056230007,
-      "topic": "Plask 实测：不用动捕服，把普通视频转成 FBX 动捕数据，用于AI角色动画和分镜预演",
-      "headline": "不用动捕服：一段手机视频转成FBX，AI角色动画能省多少事？",
-      "sourceTitle": "Plask 评测 – 无需动捕服即可将视频转换为 FBX",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jbkpWNDE4NkFVYmdkSHk0OV80WjM2dnhDSlkweUZTeWNrMXBTVlpjYmVBTW1PaW81LS14bnUzQVUxLXN4dGdRTmpEaw?oc=5"
-    },
-    {
-      "sentAt": 1789056230007,
-      "topic": "AI短剧月产4.7万部背后的“管线”战：字节、商汤下场后，普通创作者的流程该怎么摆",
-      "headline": "月产4.7万部AI短剧：管线战打起来，个人创作者还拼什么？",
-      "sourceTitle": "疯狂的AI短剧月产4.7万部，隐形“管线”战打响，字节商汤已下场",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN3Q1OXkwR3V2cUx4VVhoVlJoZTFPOEZpUUF3azZnU0ZoYS0wcVFSMzVJZzM4NTdvM09sMjhZTDBoVmV0Ni0tSGs5aWpOQmxxdFQwV05MTjYyd1dfOEpJd3FVVmxsUU9xTXllMGpJZ1BKWWZyd2JaOVlSRzVIT2JEU25xVTRKQ1VON1E?oc=5"
     }
   ]
 }
