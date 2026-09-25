@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1790355085590,
+      "topic": "LibTV 1.5 的五项升级里，剧本局部改、角色复用、运镜预演对 AI 短剧工作流的实际影响",
+      "headline": "LibTV 1.5 把剧本改成可局部改、角色可复用：短剧返工能少跑几遍？",
+      "sourceTitle": "剧本能局部改、角色能反复用、运镜能预演：LibTV 1.5的五项升级",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1aSlJNb2doTDFlbHF1b2RBWnpLVVFhd25sNzZVYnZHOTNkSkhIcGtZRFZza1VvaVNWTENSdk8zbi1YVHM3?oc=5"
+    },
+    {
+      "sentAt": 1790355085590,
+      "topic": "WorkRally 首发接入 Hy Image3.5 preview，两周免费期值不值得普通创作者拿来出分镜图",
+      "headline": "两周免费：WorkRally 接入 Hy Image3.5 preview，分镜出图值得换吗？",
+      "sourceTitle": "WorkRally 首发接入Hy Image3.5 preview，为专业影视创作开放两周免费体验",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93cm8xa2RROTdqOUc0MHdVZEozUHJsYmdMUkFvWl9sSDJmdW41OGN4OUx0YmhGa043LTEwajlPXzhXSzJlaE5QbWJiOWJyU0dic0Zoa1RPZklHdWFBOFhaM0xWY3JPTUpIZER5YWN6dmVfUGVTWndN?oc=5"
+    },
+    {
       "sentAt": 1790268404405,
       "topic": "字节海外AI短剧平台Dramagic上线，普通短剧创作者能不能用、值不值得试",
       "headline": "字节在海外悄悄上线AI短剧平台Dramagic：我注册试了一遍，它能替我做掉哪几步？",
@@ -188,27 +202,6 @@
       "headline": "一句提示词变多镜头成片：MAVIN的分镜思路，能抄进我的短剧脚本吗？",
       "sourceTitle": "ECCV 2026 Oral｜从「一句提示词」到「多镜头成片」：MAVIN让AI开始按剧本讲故事",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzbGFHOHM5eFBqSXk4cjNPVzhDNmtNclVBQXpFUVBFYkFQV1BYbURWU0lZQ3dKbTRaQjhKZHRfQUFlZDgtMVZQd2FVRkpERWk5VVJUVGlIOGVjYXJsNWZzZms2dG1ubi1yaE05bWNucDY?oc=5"
-    },
-    {
-      "sentAt": 1789142855982,
-      "topic": "B站AI视频工具补上AI视频最后一环，对做短剧的创作者意味着什么",
-      "headline": "B站的AI视频工具，补的到底是哪一环？",
-      "sourceTitle": "QY千亿球友会_游戏文化_B站的AI视频工具，正在补上AI视频的最后一环",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tZ2dTNHNJWFVBV3c3TmsxOFNZTnNFMFBicnRpWjBCTnZHa3hRaVp4VS11cVVEZ3lVSGtwT1dLZU85eU1La25Ic0pWbERJcEU?oc=5"
-    },
-    {
-      "sentAt": 1789142855982,
-      "topic": "Lovart大更新：AI开始适应设计师，对AI视频分镜和角色设定有什么可借鉴",
-      "headline": "Lovart这次更新，给AI视频分镜提了个醒",
-      "sourceTitle": "Lovart 悄悄大更新，这一次轮到 AI 适应设计师了",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBCZlAtQ1h3OFRrN1FleUVpN1FsRHZtTTJEanJudVZEWmF5aDJUT1hPMEF3NFVsUUdlVVU4eEV6QWstcDA?oc=5"
-    },
-    {
-      "sentAt": 1789142855982,
-      "topic": "来画发布支持1000秒AI漫剧平台，长时长漫剧对短剧创作者是否实用",
-      "headline": "1000秒AI漫剧平台来了，长时长是真需求还是噱头？",
-      "sourceTitle": "来画发布全国首个支持1000秒AI漫剧平台，一键生成IM体育官方网址首页动漫短片",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqQUdHWTBHdW9fMzJvZFhXTDYweWhpTnZrQ1FsTk05SW1NLU5sWUdYQmxMVUI3bHczaXBNTTJxVmFGQ1J1YkVvRlZLcWhtUQ?oc=5"
     }
   ]
 }
