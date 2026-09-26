@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1790438559042,
+      "topic": "3人团队把AI动漫做成日更500集的短剧平台，拆它的产线分工与选题机制",
+      "headline": "3个人日产500集AI动漫：它的流水线，我一个人能抄哪几段？",
+      "sourceTitle": "3个人，把 AI 动漫做成了“短剧平台”：3亿播放，3000个创作者，每天生产 500集 – 人人都是产品经理",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1ORFFnbV9XSTgyb1RaWDg5Mld6Unp4QzJyQUtpNDBBSTlkVElycHluOVo5ZGd2WGhtaDlR?oc=5"
+    },
+    {
+      "sentAt": 1790438559042,
+      "topic": "43万部之后，AI短剧的分水岭从模型转向产线：普通创作者该补哪块短板",
+      "headline": "43万部AI短剧之后，拼的已经不是模型，是你的产线",
+      "sourceTitle": "43万部之后：AI短剧真正的分水岭，不在模型，在“产线”",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LMkphRzU4MnVFM1RWUnlqbnJmekdUaGhEaWRUcXZvUXNjNWhRQ040azZYdDEydzl1cW9Ob1BTYlVEOVNZc3NlNkJkdl9rOEV3LVdwSGdvWnRudnd6OXc?oc=5"
+    },
+    {
       "sentAt": 1790355085590,
       "topic": "LibTV 1.5 的五项升级里，剧本局部改、角色复用、运镜预演对 AI 短剧工作流的实际影响",
       "headline": "LibTV 1.5 把剧本改成可局部改、角色可复用：短剧返工能少跑几遍？",
