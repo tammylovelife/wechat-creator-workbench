@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1790527158971,
+      "topic": "麦芽在云栖大会分享的 AI 短剧“持续生产”方法：从单条爆款到稳定产线，普通创作者缺的是哪一环",
+      "headline": "AI短剧不缺爆款缺“日更”：云栖大会上讲的持续生产，我一个人能补哪一环",
+      "sourceTitle": "好内容如何持续生产 麦芽梁彪在云栖大会分享AI短剧新生态",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fWnRYM3BTSXQ1VmNFX2duT0NiY01raFprYjZCOUd3cm1FZk9YSUxSRE5NUVhKakhDRGpJMGY5SEpMV2IwYkpzNXlfcFlWbzdLdElDa1A3dUk?oc=5"
+    },
+    {
+      "sentAt": 1790527158971,
+      "topic": "AI 短剧暴富神话半年退烧：对还在做的人，哪些环节被证明是伪需求、哪些是真功夫",
+      "headline": "AI短剧半年就退烧了：复盘下来，哪些钱其实根本不用花",
+      "sourceTitle": "AI短剧的暴富神话，半年就退烧了",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nTkotdlhCVENXN2dhdDE1UGhnQTZIR3JRVGJhb05XUFZ0QWI1U19taFFXLUItakVOZzRJSm5tMi16YV9mMmM1N29kd1Jndw?oc=5"
+    },
+    {
       "sentAt": 1790438559042,
       "topic": "3人团队把AI动漫做成日更500集的短剧平台，拆它的产线分工与选题机制",
       "headline": "3个人日产500集AI动漫：它的流水线，我一个人能抄哪几段？",
@@ -202,20 +216,6 @@
       "headline": "单项奖 100 万：RunningHub 的 AIGC 长片大赛，普通人够得着吗？",
       "sourceTitle": "首个AIGC长片大赛！RunningHub设单项大奖100万现金，科幻IP免费改编-yeeyi",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvTXgxdWRWTXN5dEZURlphMTJIUnQ3ZlVNek9id1QtWC1XNVduTVViOXBNMVJhRWtKd1dUMm0tczVud3lPODVLLXhSNldJMWd5ekhMR3ln?oc=5"
-    },
-    {
-      "sentAt": 1789314658647,
-      "topic": "RunningHub开源方案把15秒视频生成压到54秒，普通创作者怎么用它缓解排队等待",
-      "headline": "15秒视频54秒出片：AI视频的排队焦虑，真被这套开源方案治好了吗？",
-      "sourceTitle": "15秒视频，54秒生成！AI视频创作的“等待焦虑”，被RunningHub这套开源方案治好了-yeeyi",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTV24yWkNkZWxDTDZVcXl5OTVKWTlsZ1o0ejdmbzlPMGIyenlEdXFOOGF4eS1LdEpmUWN3aGpYbEFTQVo0N0VHZkhKbTNCUGVEd0N5cFBn?oc=5"
-    },
-    {
-      "sentAt": 1789314658647,
-      "topic": "MAVIN从一句提示词到多镜头成片，对AI短剧分镜脚本写法的启发",
-      "headline": "一句提示词变多镜头成片：MAVIN的分镜思路，能抄进我的短剧脚本吗？",
-      "sourceTitle": "ECCV 2026 Oral｜从「一句提示词」到「多镜头成片」：MAVIN让AI开始按剧本讲故事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzbGFHOHM5eFBqSXk4cjNPVzhDNmtNclVBQXpFUVBFYkFQV1BYbURWU0lZQ3dKbTRaQjhKZHRfQUFlZDgtMVZQd2FVRkpERWk5VVJUVGlIOGVjYXJsNWZzZms2dG1ubi1yaE05bWNucDY?oc=5"
     }
   ]
 }
