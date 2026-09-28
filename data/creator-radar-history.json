@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1790623520064,
+      "topic": "SkyReels-V4 冲上 Artificial Analysis 榜单第二，它说的「全栈统一」对普通创作者到底意味着什么",
+      "headline": "榜单第二的 SkyReels-V4 说视频要「全栈统一」：我该换工具链吗",
+      "sourceTitle": "Artificial Analysis 榜单第二，SkyReels-V4 宣告 AI 视频进入「全栈统一」阶段",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLNGhxVDkwblYtZGMyOGJPb2FYZHRHN0xuTXRQOVVlQ0JGdjVPdGp4Y1RBOHV2RVc0a3lBbEFVRTlLQy1aN0NrZXJ6eE4?oc=5"
+    },
+    {
+      "sentAt": 1790623520064,
+      "topic": "LibTV 1.5 五大新功能实测：把「一个完整剧组」搬进 AI 短剧工作流，哪些角色真能替",
+      "headline": "LibTV 1.5 实测：把「一个剧组」搬进工作流，哪几个角色真能替我干活",
+      "sourceTitle": "实测LibTV1.5五大新功能，我把1个完整剧组搬进了AI短剧工作流",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Xc2NlaWVqOG56OFlFbk1fMXo0SklNcUlXMXN4aC1FTlpwYlplVXItMEdOXzJKY3U0VndRSkVJNG9wTHV0dHdSYmZGdw?oc=5"
+    },
+    {
       "sentAt": 1790527158971,
       "topic": "麦芽在云栖大会分享的 AI 短剧“持续生产”方法：从单条爆款到稳定产线，普通创作者缺的是哪一环",
       "headline": "AI短剧不缺爆款缺“日更”：云栖大会上讲的持续生产，我一个人能补哪一环",
@@ -202,20 +216,6 @@
       "headline": "4天、一条AI短片、3万奖金：这个学生的时间表，普通人抄得动吗",
       "sourceTitle": "这个学生，用4天做的AI短片，从京东拿走30000元！",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsNjAxR01PM191cFh1ejF0WG9UT1hWX0Mza1VXaVl1ZGRVRHh6algxYWRWbFZUR0g2bXd6bmYyMTQzcUxrVGQteg?oc=5"
-    },
-    {
-      "sentAt": 1789408499093,
-      "topic": "GPT-Image-2.5 实测：画质不再卷，速度成了新卖点，对 AI 短剧分镜出图意味着什么",
-      "headline": "画质卷到头之后：GPT-Image-2.5 把“快”当卖点，分镜出图能省多少时间？",
-      "sourceTitle": "GPT-Image-2.5 实测：画质卷到头之后，“快”成为突破点丨302.AI -",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FbUtCYkRBSTBkUW1Ya2t5c3dFS29adDFrNmVVUFc3Ul83VFNSanpJckxkNDB5WjRrTjU0ZmNuU3d3alpaN1pYbGR4UGtRa250SjdnOGxmZ3lybmJSalphSVpVTlJqNkQxYmJpcTRSNXFjSzQ?oc=5"
-    },
-    {
-      "sentAt": 1789408499093,
-      "topic": "RunningHub 办首个 AIGC 长片大赛，单项奖 100 万、科幻 IP 免费改编，普通创作者该不该报",
-      "headline": "单项奖 100 万：RunningHub 的 AIGC 长片大赛，普通人够得着吗？",
-      "sourceTitle": "首个AIGC长片大赛！RunningHub设单项大奖100万现金，科幻IP免费改编-yeeyi",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvTXgxdWRWTXN5dEZURlphMTJIUnQ3ZlVNek9id1QtWC1XNVduTVViOXBNMVJhRWtKd1dUMm0tczVud3lPODVLLXhSNldJMWd5ekhMR3ln?oc=5"
     }
   ]
 }
