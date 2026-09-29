@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "sentAt": 1790704325748,
+      "topic": "可灵4.0首发实测：国产视频模型这一代到底把哪几个镜头做对了",
+      "headline": "可灵4.0首发实测：这几个镜头它真做对了，这几个还得自己补",
+      "sourceTitle": "可灵4.0首发实测，国产AI视频再次掀桌？",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0tUzI0a3RXdEp0SmFQdkprWWFJX0RsZllIaVJERUk2X1lKdlpLZlg3ZFQ5RjRubDR5dmdpQkVvS2dnR1E?oc=5"
+    },
+    {
       "sentAt": 1790623520064,
       "topic": "SkyReels-V4 冲上 Artificial Analysis 榜单第二，它说的「全栈统一」对普通创作者到底意味着什么",
       "headline": "榜单第二的 SkyReels-V4 说视频要「全栈统一」：我该换工具链吗",
@@ -202,20 +209,6 @@
       "headline": "我用 Codex 自动剪出一条近3分钟视频：哪些步骤真能交给它，哪些还得自己来",
       "sourceTitle": "我用Codex 从零到一，自动剪出了一条2 分 54 秒的知识视频| 诺诺(@shenghouxuyao) on X",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16VXFTOXFIUE5ZTkFLX2cwWnRuRTZvOTZxYTdPQ2VvRDZDb2hUalJkcjVfTTJOaHpKLVROWUE0X1M0Y3hKaU1TR29mODVVbGNrakdBMkhB?oc=5"
-    },
-    {
-      "sentAt": 1789490060850,
-      "topic": "智象发布首款“物理规律导向”视频模型，普通创作者能不能用它解决AI视频里最烦的物理崩坏（杯子穿手、水不流、物体飘）",
-      "headline": "AI视频最假的地方，被这个新模型盯上了：物理规律导向，实测到底稳不稳",
-      "sourceTitle": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3clVkcmVoUmJYUWEyU1JjS0pxYzRBWWxESE5VOElBUFJjUy1Va2lIaUNnSy1xajJjMHAybVVIbmFIZjlEbGdWcEdLU1NHcmZCMnp0NGE2S1ZTcFlMdWFObUw2Qzc?oc=5"
-    },
-    {
-      "sentAt": 1789490060850,
-      "topic": "一个学生用4天做出一条AI短片，从京东拿走3万元奖金：拆解他的时间分配、工具链和取舍",
-      "headline": "4天、一条AI短片、3万奖金：这个学生的时间表，普通人抄得动吗",
-      "sourceTitle": "这个学生，用4天做的AI短片，从京东拿走30000元！",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsNjAxR01PM191cFh1ejF0WG9UT1hWX0Mza1VXaVl1ZGRVRHh6algxYWRWbFZUR0g2bXd6bmYyMTQzcUxrVGQteg?oc=5"
     }
   ]
 }
