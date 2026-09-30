@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "sentAt": 1790790449337,
+      "topic": "RunningHub 增强版 H3 实测：1 秒 0.1 元，它和 Seedance 2.0 的差距到底在哪几个镜头上",
+      "headline": "1秒1毛钱的H3，真能替掉Seedance吗？我拿同一组分镜测了一遍",
+      "sourceTitle": "反超Seedance 2.0！RunningHub发布增强版H3，1秒只要0.1 元",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAwVUN3bXhGMU5IbWI0Rk5FUGxheEVFeERwOFdFREZDV0U0VEhwVHZIcGdFTG0yMld6UldpcEM4X0dGRVdwTl92YQ?oc=5"
+    },
+    {
       "sentAt": 1790704325748,
       "topic": "可灵4.0首发实测：国产视频模型这一代到底把哪几个镜头做对了",
       "headline": "可灵4.0首发实测：这几个镜头它真做对了，这几个还得自己补",
@@ -195,20 +202,6 @@
       "headline": "和《后西游记》总导演聊完，我把 AI 长剧的工作流拆成了一张表",
       "sourceTitle": "与总导演对谈两小时，把AI长剧《后西游记》的工作流摸清了",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mdHhLanRxckJpaVdLZ01qSVRxMVI4UTc3c2VtRVBmcmVRZXJ0TlI2dkI5MUlkdWtyMk1TSVRlaHVOY2t0bXpvbm1vRTFpMms2aktoOTJpMl84aGR5UFpNcnNmalhVclQ3NlM0MzBOamM?oc=5"
-    },
-    {
-      "sentAt": 1789576001727,
-      "topic": "Vidu S2 的“实时改视频”对 AI 短剧分镜返工的实用价值",
-      "headline": "改一句台词不用整条重跑？Vidu S2 的实时改视频，短剧返工能省多少事",
-      "sourceTitle": "实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CdDdBNW9Gbi1UX2pUV2wxS2hZLWVkUm9lVlZZTGQyRE9DQk83SFZTODNWTmN1UERZX0VvUjlMRHBZU0diNUFOSw?oc=5"
-    },
-    {
-      "sentAt": 1789576001727,
-      "topic": "用 Codex 从零自动剪出一条 2 分 54 秒知识视频的流程拆解",
-      "headline": "我用 Codex 自动剪出一条近3分钟视频：哪些步骤真能交给它，哪些还得自己来",
-      "sourceTitle": "我用Codex 从零到一，自动剪出了一条2 分 54 秒的知识视频| 诺诺(@shenghouxuyao) on X",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16VXFTOXFIUE5ZTkFLX2cwWnRuRTZvOTZxYTdPQ2VvRDZDb2hUalJkcjVfTTJOaHpKLVROWUE0X1M0Y3hKaU1TR29mODVVbGNrakdBMkhB?oc=5"
     }
   ]
 }
