@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "sentAt": 1791043008009,
+      "topic": "扣子3.0实测：用手机远程遥控电脑里的Agent跑视频/短剧流程",
+      "headline": "手机遥控电脑里的Agent：扣子3.0实测，做视频的人能省掉哪几步",
+      "sourceTitle": "扣子3.0实测：手机就能远程遥控你电脑里的Agent|扣子（Coze）|Android|Apple|我的世界|iOS_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxPOTV4N01sMGdiQ0xYeGgzRGoyVzY4MDZqTk5iaEZYU2hSZ1FqQmI3Z0c5MkNTa000ZF9xNjhHY1puWGk4cXhhbjBFS3dCOGM2aXFRLXpLcU1nSkJJRmgtUlJoc19GeU9hU1J2azdEa1VFaXozSFBLQjV5Mk4xalItY2ZLTmlQS3VtWWlRaVh3UDRoMDRVSWU1RkJtNl8yUjdqWUNKTFdrVXhGMklpU0duV3phTzJEemgyX2JjcDM5Q1JDSGRRWE9jdEQ1RFhNNmY0QW92OEd5dTc4OVFPcm9ITXpZS05UMnNJbk40cHJxNkkxUlZBU09maDZoOHZJclBoUTBQZm1rdWJYdXJlbDdHVldNa0p6NEUtenFVeTU3NmV0b0Q0Y0p6VXRTOWVKRER3WDFCcXg0TjNrVnh5b0Q1T29xbjZTN1NQa3QzYjFCWmstLS1tTmhHRHp3OE9xRFZ1b2RaaWJwekd6WDlsMlBBa2pLcmNPazJUYkJVSUJyVmFZOTJVRmFYZmVqVUlLbmpYalc4dkdQcWt5TVJVTWJYcE1vYmYtNjh2Z1lndThmanZDMUFwU2h4aDF5ZVVSN2N4WFpjTzdISWdtajZVbTdIR2VoWGNqT2c5dkxrdFBmRnB1NTVfM3J6OHEtQnUtc2w2MmlxNnBsTGhjd1YzS1dwMnNCc0xhakN5UklLOXJSTDI4N0lPT3JkVTh1ekM2Qkx1eVZwek1UQ0VNTHJ0UmJGY3IzTDhzX1FZM0cwMkI4bGoxQ1BBRWh4dFc1c0g3WEh6SERsbFVxRlVnand3ZWt1VkUteGQ0QQ?oc=5"
+    },
+    {
+      "sentAt": 1791043008009,
+      "topic": "OpenAI dots实测：云端智能体开始直接交付文件，对内容创作者意味着什么",
+      "headline": "云端Agent开始交文件了：OpenAI dots实测，做短剧的人能少复制粘贴几次",
+      "sourceTitle": "OpenAI dots 实测：云端智能体开始交付文件",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DMDdrSWFobmtfblkySGZ3eDhzeDBPczNyOXpGb3RreV9LTjk3REhnV3FhNnFLLUxiOEY4VWdMYW1QNm1URkNSY3pDenF5MWM4SVo2ODhiSXFkUGQzSVNBcmdHdFhNQXd2dUZ0Tw?oc=5"
+    },
+    {
+      "sentAt": 1791043008009,
+      "topic": "用千问创作做一部完整短片「JoJo的奇幻买瓜」的实测拆解",
+      "headline": "用千问创作做了一部短片：它的链路里，哪几步我能直接抄",
+      "sourceTitle": "刚刚，我们用千问创作做了一部「JoJo的奇幻买瓜」",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sTHdKelY0dEdPN3dZSkN0TjhNeHA2bDJCOTkwMmZOSGl1NnRWSWZDeUlCdEk3Rm1BSlM3a3RKNFAxWlN0WWYzb0JyLWItSGQ4XzFV?oc=5"
+    },
+    {
       "sentAt": 1790790449337,
       "topic": "RunningHub 增强版 H3 实测：1 秒 0.1 元，它和 Seedance 2.0 的差距到底在哪几个镜头上",
       "headline": "1秒1毛钱的H3，真能替掉Seedance吗？我拿同一组分镜测了一遍",
@@ -167,20 +188,6 @@
       "headline": "多模态不再比谁聊得好：通义新模型说它要\"干活\"，我的流程能少几步？",
       "sourceTitle": "Qwen3.8-Omni-Flash 发布，阿里通义把多模态押在了“干活”上 - OSCHINA - 开源 × AI · 开发者生态社区",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBneGxTWlJDQmpuLXpkVkFXR0FHWjNrTjdaRjRpeGRJSXM4a0c5YWh4TkN6Yk1IU3Y1ZXY4NTFlb2NWVEpFYkI2TURaMHdERlp3YTUxNDNrWFdubVEwQkpDdl9qUnBzdw?oc=5"
-    },
-    {
-      "sentAt": 1789832219739,
-      "topic": "Vidu S2 论文里的实时720P数字人生成与视频编辑，对AI短剧口型和返工意味着什么",
-      "headline": "Vidu S2的论文里藏了两件事：实时数字人管口型，实时编辑管返工",
-      "sourceTitle": "论文周报丨Vidu S2实现实时720P数字人生成与视频编辑；NCP-ArchPreview探索LLM隐空间预训练新范式...速览一周AI前沿论文",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MMlVoMjcxNTdsb2pveDRKSHl0U0tiWDA5dmc1dnhrdVhEWVd0T1c3NlR5bGZkUXVoV0JIUkU1bXBIU2k5ODQzdA?oc=5"
-    },
-    {
-      "sentAt": 1789832219739,
-      "topic": "一周拍完74集出海短剧的创作者说“最贵的成本不是算力”，拆解他真正花时间的地方",
-      "headline": "一周74集出海短剧：他说最贵的不是算力，那到底贵在哪",
-      "sourceTitle": "一周拍完74集出海短剧，他说AI视频最贵的成本根本不是算力",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3STl1QzhfbmJhRElIdERiLUdBbEpVeXc5cHBYQmc1X2Z4cEEtOHQ5QjdkNGhVOUpCYzFZSDRjMzhYNHZudXhneHVHVk82QkdOMDJrOEl3MThDaHl0Snp1VTBWbUlYdWtOOVJUWi0wQm1VbEdTNEU2a1pEZnRoYVE?oc=5"
     }
   ]
 }
