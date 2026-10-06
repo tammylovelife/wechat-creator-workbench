@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1791309961154,
+      "topic": "快手视频Agent实测：它能不能替我做短剧的分镜到成片这一段",
+      "headline": "快手的视频Agent来了：我拿一条短剧片段试了试，它能替我做掉哪几步",
+      "sourceTitle": "快手的视频Agent，会不会来晚了？",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zZGtkaTlTelVWWEtfd2h4amE2Y01iaHY1aEd4UGkxYk9sd2ZaUDg1YWRkQVZPNW9ZWG9TSlZQMUxOSnRvcjZxeWU3VUo?oc=5"
+    },
+    {
+      "sentAt": 1791309961154,
+      "topic": "GPT-6 Sol和Luna发布，对做AI视频/短剧的创作者意味着什么",
+      "headline": "GPT-6出了Sol和Luna两个版本：做短剧的人该用哪个写分镜",
+      "sourceTitle": "隆重推出 GPT-6 Sol 和 Luna",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlM2NrMUY4MnZ1NUVpXzVWYkozUDNBQ1plVWtFLWlQQkpnVTdzVnhmd2ptZTVTeGpBWGZXLVlWUmFiZVMzTExFeEJ1UVZSWVRBRVg2RE5YVDlyUGlPQlJvclBPNzZBN1lUazAtdEVQSXVwRVRwZkE?oc=5"
+    },
+    {
       "sentAt": 1791043008009,
       "topic": "扣子3.0实测：用手机远程遥控电脑里的Agent跑视频/短剧流程",
       "headline": "手机遥控电脑里的Agent：扣子3.0实测，做视频的人能省掉哪几步",
@@ -118,20 +132,6 @@
       "headline": "极简火柴人流水线被开源了：画风越简单越跑量，AI短剧该不该也做减法？",
       "sourceTitle": "爆款复刻｜YouTube 极简火柴人搞钱流水线，优质内容心法 + 全套工作流，被我一键开源啦！",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XcVVxRTAwMUZrTlM1cXZSeFNycmZfcFhSTGJyODlhZGoxajJqcERhbmZ2M2I2T3pMU1ROeWl6YzcyREk1OFJBV3ZVRUh5RzcwZ05hZktB?oc=5"
-    },
-    {
-      "sentAt": 1790094877915,
-      "topic": "真人实拍结合AI的古装剧《行镖》把全套制作流程和资产库开源了，普通创作者能直接抄哪几步",
-      "headline": "真人实拍加AI的古装剧，把制作流程和资产库都公开了：哪几步我能直接抄",
-      "sourceTitle": "真人实拍结合AI 的古装剧，把全套制作流程公开了|行镖|创作者|ai影视开源|资产库|制作流程_新浪新闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GMjVIcWExSnFHeWJLYzdGRk1KOVNzak9ndEczdGZ6M3pnbTMwY21lMFBsaHJvVmQ4WEJoQVNBT1hlbGZIU2k0c3dTMDRqRjJjampteUljdTRuMEZSd19QaFREUQ?oc=5"
-    },
-    {
-      "sentAt": 1790094877915,
-      "topic": "实测豆包AI工作流：视频环节靠Seedance拉开差距，但Prompt要够多够细才出效果",
-      "headline": "豆包工作流实测：视频这块靠Seedance，但Prompt不写细就白搭",
-      "sourceTitle": "实测豆包AI工作流：都达标，尤其视频借助Seedance带来办公差异化优势，就是Prompt要够多够细费token",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNk1BNVZ0U1FxSHM5UkxlOWxZT3NGdkVkVzdYVHFWdVV3QUZjR0lsU0FUNWEzY2kyQVdMOXBpQVhGdzZac3ZId0NEbE1oRGVvU0ZXRV82R2o0TWg3X3BnQ1lfV1U4WklWZk5rSXRiZ0tOd01rbUFxYkgwckhPQWltOEd5LWtESTZudG9vMw?oc=5"
     }
   ]
 }
