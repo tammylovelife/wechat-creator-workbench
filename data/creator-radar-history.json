@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1791569314740,
+      "topic": "Vidu Q4 Preview 发布：高表现力旗舰模型对做 AI 短剧的人意味着什么",
+      "headline": "Vidu Q4 Preview 来了：做短剧的人，这次该不该换模型？",
+      "sourceTitle": "生数科技发布 Vidu Q4 Preview高表现力旗舰模型",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sU0xEVFFIWGk3VzZuaEZqQXlFSS1aOS1mOUNYamZjRVZ1ajlxTXVzSVp2a1JGZE50b0hrOVJBSlFYTkpXYnJPZUNKRHJ1QVpNeUVqQU9B?oc=5"
+    },
+    {
+      "sentAt": 1791569314740,
+      "topic": "TAKE X 自动调用创作 Skill：不会写提示词也能一句话出片，实测它替掉了哪几步",
+      "headline": "不会写提示词也能出片？TAKE X 实测：它到底替我省了几次抽卡",
+      "sourceTitle": "不会写AI出片提示词？TAKE X自动调用创作Skill 告别反复抽卡实现一句话开干",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MeTBkWlRhUGozQWJkYzdDblYwM3pZNDJEa0VmWXM0SWh6Y2oxaTVRZHJXdFdOXzFDTWpGSHNONTk3TWxTSWVnYi1TcU5DQUhEUERr?oc=5"
+    },
+    {
       "sentAt": 1791309961154,
       "topic": "快手视频Agent实测：它能不能替我做短剧的分镜到成片这一段",
       "headline": "快手的视频Agent来了：我拿一条短剧片段试了试，它能替我做掉哪几步",
@@ -90,20 +104,6 @@
       "headline": "43万部AI短剧之后，拼的已经不是模型，是你的产线",
       "sourceTitle": "43万部之后：AI短剧真正的分水岭，不在模型，在“产线”",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LMkphRzU4MnVFM1RWUnlqbnJmekdUaGhEaWRUcXZvUXNjNWhRQ040azZYdDEydzl1cW9Ob1BTYlVEOVNZc3NlNkJkdl9rOEV3LVdwSGdvWnRudnd6OXc?oc=5"
-    },
-    {
-      "sentAt": 1790355085590,
-      "topic": "LibTV 1.5 的五项升级里，剧本局部改、角色复用、运镜预演对 AI 短剧工作流的实际影响",
-      "headline": "LibTV 1.5 把剧本改成可局部改、角色可复用：短剧返工能少跑几遍？",
-      "sourceTitle": "剧本能局部改、角色能反复用、运镜能预演：LibTV 1.5的五项升级",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1aSlJNb2doTDFlbHF1b2RBWnpLVVFhd25sNzZVYnZHOTNkSkhIcGtZRFZza1VvaVNWTENSdk8zbi1YVHM3?oc=5"
-    },
-    {
-      "sentAt": 1790355085590,
-      "topic": "WorkRally 首发接入 Hy Image3.5 preview，两周免费期值不值得普通创作者拿来出分镜图",
-      "headline": "两周免费：WorkRally 接入 Hy Image3.5 preview，分镜出图值得换吗？",
-      "sourceTitle": "WorkRally 首发接入Hy Image3.5 preview，为专业影视创作开放两周免费体验",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93cm8xa2RROTdqOUc0MHdVZEozUHJsYmdMUkFvWl9sSDJmdW41OGN4OUx0YmhGa043LTEwajlPXzhXSzJlaE5QbWJiOWJyU0dic0Zoa1RPZklHdWFBOFhaM0xWY3JPTUpIZER5YWN6dmVfUGVTWndN?oc=5"
     }
   ]
 }
