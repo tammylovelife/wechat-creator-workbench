@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1792337712823,
+      "topic": "开源 Iterlay 实测：让 AI Agent 在画布上配图、改图、管理素材，能不能接进我的分镜流程",
+      "headline": "开源了个画布给 AI Agent 用：我拿一条短剧的分镜素材试了试",
+      "sourceTitle": "开源 Iterlay：让 Claude Code 等 AI Agent 在画布上配图、改图与管理素材",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02SGRQZmF0ZktzWnl1U1ZiT3czd25mWEYxa1FWb0cxd3g5T3hhUFRPSGIyTERwalFFbGNzcTBYUVFMckNpSDRnTE85RE9BZEQ3NmZxcHEyUmRrRU1RTnFmMVVJWQ?oc=5"
+    },
+    {
+      "sentAt": 1792337712823,
+      "topic": "AI 视频画布横评功能篇：影视出片、一键漫剧、电商三条路线分化，做短剧的人该选哪类画布",
+      "headline": "AI 视频画布开始分家了：做短剧的我，该挑哪一种",
+      "sourceTitle": "影视出片、一键漫剧、电商帮手，AI视频画布正分化丨横评·功能篇",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KcVhyWGp0TnYxeHg2akZGNmJUOURyb2pSUFpacld5cHEzcFU1OEdEMjRQM0p0UjVzeS1EbXNGX09nSUt0dHlOaS1Iaks3N0RGWVZ3OGNlTlpaRmdraEk3cw?oc=5"
+    },
+    {
       "sentAt": 1792250035561,
       "topic": "Gemini 4 Argon 实测：它在写分镜、拆剧本、生成提示词这几步到底强在哪、弱在哪",
       "headline": "Gemini 4 Argon 实测：写分镜这一步，它能不能替我省掉半小时",
@@ -83,27 +97,6 @@
       "headline": "GPT-6出了Sol和Luna两个版本：做短剧的人该用哪个写分镜",
       "sourceTitle": "隆重推出 GPT-6 Sol 和 Luna",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlM2NrMUY4MnZ1NUVpXzVWYkozUDNBQ1plVWtFLWlQQkpnVTdzVnhmd2ptZTVTeGpBWGZXLVlWUmFiZVMzTExFeEJ1UVZSWVRBRVg2RE5YVDlyUGlPQlJvclBPNzZBN1lUazAtdEVQSXVwRVRwZkE?oc=5"
-    },
-    {
-      "sentAt": 1791043008009,
-      "topic": "扣子3.0实测：用手机远程遥控电脑里的Agent跑视频/短剧流程",
-      "headline": "手机遥控电脑里的Agent：扣子3.0实测，做视频的人能省掉哪几步",
-      "sourceTitle": "扣子3.0实测：手机就能远程遥控你电脑里的Agent|扣子（Coze）|Android|Apple|我的世界|iOS_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxPOTV4N01sMGdiQ0xYeGgzRGoyVzY4MDZqTk5iaEZYU2hSZ1FqQmI3Z0c5MkNTa000ZF9xNjhHY1puWGk4cXhhbjBFS3dCOGM2aXFRLXpLcU1nSkJJRmgtUlJoc19GeU9hU1J2azdEa1VFaXozSFBLQjV5Mk4xalItY2ZLTmlQS3VtWWlRaVh3UDRoMDRVSWU1RkJtNl8yUjdqWUNKTFdrVXhGMklpU0duV3phTzJEemgyX2JjcDM5Q1JDSGRRWE9jdEQ1RFhNNmY0QW92OEd5dTc4OVFPcm9ITXpZS05UMnNJbk40cHJxNkkxUlZBU09maDZoOHZJclBoUTBQZm1rdWJYdXJlbDdHVldNa0p6NEUtenFVeTU3NmV0b0Q0Y0p6VXRTOWVKRER3WDFCcXg0TjNrVnh5b0Q1T29xbjZTN1NQa3QzYjFCWmstLS1tTmhHRHp3OE9xRFZ1b2RaaWJwekd6WDlsMlBBa2pLcmNPazJUYkJVSUJyVmFZOTJVRmFYZmVqVUlLbmpYalc4dkdQcWt5TVJVTWJYcE1vYmYtNjh2Z1lndThmanZDMUFwU2h4aDF5ZVVSN2N4WFpjTzdISWdtajZVbTdIR2VoWGNqT2c5dkxrdFBmRnB1NTVfM3J6OHEtQnUtc2w2MmlxNnBsTGhjd1YzS1dwMnNCc0xhakN5UklLOXJSTDI4N0lPT3JkVTh1ekM2Qkx1eVZwek1UQ0VNTHJ0UmJGY3IzTDhzX1FZM0cwMkI4bGoxQ1BBRWh4dFc1c0g3WEh6SERsbFVxRlVnand3ZWt1VkUteGQ0QQ?oc=5"
-    },
-    {
-      "sentAt": 1791043008009,
-      "topic": "OpenAI dots实测：云端智能体开始直接交付文件，对内容创作者意味着什么",
-      "headline": "云端Agent开始交文件了：OpenAI dots实测，做短剧的人能少复制粘贴几次",
-      "sourceTitle": "OpenAI dots 实测：云端智能体开始交付文件",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DMDdrSWFobmtfblkySGZ3eDhzeDBPczNyOXpGb3RreV9LTjk3REhnV3FhNnFLLUxiOEY4VWdMYW1QNm1URkNSY3pDenF5MWM4SVo2ODhiSXFkUGQzSVNBcmdHdFhNQXd2dUZ0Tw?oc=5"
-    },
-    {
-      "sentAt": 1791043008009,
-      "topic": "用千问创作做一部完整短片「JoJo的奇幻买瓜」的实测拆解",
-      "headline": "用千问创作做了一部短片：它的链路里，哪几步我能直接抄",
-      "sourceTitle": "刚刚，我们用千问创作做了一部「JoJo的奇幻买瓜」",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sTHdKelY0dEdPN3dZSkN0TjhNeHA2bDJCOTkwMmZOSGl1NnRWSWZDeUlCdEk3Rm1BSlM3a3RKNFAxWlN0WWYzb0JyLWItSGQ4XzFV?oc=5"
     }
   ]
 }
