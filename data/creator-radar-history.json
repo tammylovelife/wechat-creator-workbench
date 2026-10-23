@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1792773796868,
+      "topic": "可灵4.0在天工工作台开放30秒原生生成+最多15项参考素材，对做短剧的角色一致性和长镜头分镜意味着什么",
+      "headline": "可灵4.0能一次喂15项参考素材了：做短剧的我，会怎么分配这15个名额",
+      "sourceTitle": "昆仑万维天工工作台接入可灵Kling4.0:单次30秒原生生成，最多15项参考素材",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JLUNpUG5lVmNwT0NpWWdLekxYNUZ5bTZDdGw0cEF2cFRKVXBqUzFidGRyTzJER2l5RHVjMUo4bkc0SkNKYVJjX3hIQlpmdw?oc=5"
+    },
+    {
+      "sentAt": 1792773796868,
+      "topic": "GPT-6 加“快脑”100毫秒决策并开放API，对短剧分镜脚本里需要即时反馈的环节有没有实际用处",
+      "headline": "GPT-6有了“快脑”：写分镜时让它即时挑错，值不值得接进流程",
+      "sourceTitle": "OpenAI给GPT-6装上“快脑”！100毫秒做决策，API全面开放",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IeHI1LUVZMmJpajlBbE5zQTAyTTZWdFdsT2tSSllTMnFOVjlxUklUTnB2WW5XRWtJY0xCUHhzTmNyRUFoSUdWRl9tTXFnM2VxNmxONmwzUFZkcnB3amFnNkxpZFBYeThYdktaRndLUmpOTlNndlhJWUhOR0ZndkE?oc=5"
+    },
+    {
       "sentAt": 1792687908229,
       "topic": "可控运镜的视频 MCP 技能实测：做短剧时，运镜到底该交给技能还是自己写提示词",
       "headline": "运镜交给 MCP 技能还是自己写：我把几款视频运镜技能挨个试了一遍",
