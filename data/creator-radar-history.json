@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "sentAt": 1792856203076,
+      "topic": "Kimi K3.1 Pro 的 Agent 能力，能不能接进短剧分镜与素材整理流程",
+      "headline": "Kimi K3.1 Pro 的 Agent 排到第一了：做短剧的我，会先让它干哪件脏活",
+      "sourceTitle": "刚刚，Kimi K3.1 Pro杀进全球前四，Agent第一",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93R3Vma0luTW5iNy1HSk1UQUZkdlV3eWFPZ1F5dzYzQnJBa0I4UHF3d2hJZGNSUEtmRGhQRE1maVJQRHVSQW1UUUxqRVUwX2FY?oc=5"
+    },
+    {
+      "sentAt": 1792856203076,
+      "topic": "首部拿龙标的AI电影票房破50万，100分钟正片里哪些工序撑住了、哪些塌了",
+      "headline": "第一部拿龙标的AI电影卖了50万：100分钟里，哪几步最先露馅",
+      "sourceTitle": "首部拿“龙标”的AI电影票房破50万，100分钟留得住观众吗？",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxaFNCY1lwVHBCQWl3LU5OR3VCUDJSNHo3WDdPdzlqSnhWc2dtMmZVSEpXTjYtdWFLN3BBNWp2WERNRjZTaUU2RUVoOWFmRk9YYTI5a3ZKZDdzQXNsTXJ0T0R1SDRGZw?oc=5"
+    },
+    {
+      "sentAt": 1792856203076,
+      "topic": "3名工科生做出6亿播放AI短剧，他们的工序和普通创作者差在哪",
+      "headline": "3个工科生做出6亿播放：他们省掉的工序，我能不能也省",
+      "sourceTitle": "3名工科生，用AI做出6亿播放短剧",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vMmR5RDVQS1h6NDUyWU5IMGVVa2tqSk5CUV83a3hLdVpSNXRkeVZNSFZaWVVjTVhUY01kNkxJdUtYX0E4RnQ1YWFuUWZHZ0MwQmxYVnV1dTFNazZwdXpqNEdKaWwyeklTdWNWMVpPVUx5OEJmUDdNbTljX2E?oc=5"
+    },
+    {
       "sentAt": 1792773796868,
       "topic": "可灵4.0在天工工作台开放30秒原生生成+最多15项参考素材，对做短剧的角色一致性和长镜头分镜意味着什么",
       "headline": "可灵4.0能一次喂15项参考素材了：做短剧的我，会怎么分配这15个名额",
@@ -118,20 +139,6 @@
       "headline": "10秒惊艳、一部短剧难产：我把自己卡住的几个环节逐条对了一遍",
       "sourceTitle": "10 秒视频很惊艳，为什么 AI 做一部短剧还是这么难？ - InfoQ-CN",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oRlNYX19EdWI3YlBxcG9URnRtazVKc2hqUFNvY21sNFo2aXd4aUpOSV9xa2xzOG1MeXM1ZnFadjZfNGFiN2RCVXpZRTRIVElRSENLZmRFR1E5MHJQZkE?oc=5"
-    },
-    {
-      "sentAt": 1791569314740,
-      "topic": "Vidu Q4 Preview 发布：高表现力旗舰模型对做 AI 短剧的人意味着什么",
-      "headline": "Vidu Q4 Preview 来了：做短剧的人，这次该不该换模型？",
-      "sourceTitle": "生数科技发布 Vidu Q4 Preview高表现力旗舰模型",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sU0xEVFFIWGk3VzZuaEZqQXlFSS1aOS1mOUNYamZjRVZ1ajlxTXVzSVp2a1JGZE50b0hrOVJBSlFYTkpXYnJPZUNKRHJ1QVpNeUVqQU9B?oc=5"
-    },
-    {
-      "sentAt": 1791569314740,
-      "topic": "TAKE X 自动调用创作 Skill：不会写提示词也能一句话出片，实测它替掉了哪几步",
-      "headline": "不会写提示词也能出片？TAKE X 实测：它到底替我省了几次抽卡",
-      "sourceTitle": "不会写AI出片提示词？TAKE X自动调用创作Skill 告别反复抽卡实现一句话开干",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MeTBkWlRhUGozQWJkYzdDblYwM3pZNDJEa0VmWXM0SWh6Y2oxaTVRZHJXdFdOXzFDTWpGSHNONTk3TWxTSWVnYi1TcU5DQUhEUERr?oc=5"
     }
   ]
 }
