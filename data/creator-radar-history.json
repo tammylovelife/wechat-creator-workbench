@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1792943240731,
+      "topic": "可灵4.0实测：能打、能演、能拍广告，但做短剧的人该盯哪几项能力边界",
+      "headline": "可灵4.0实测看完：能打能演能拍广告，做短剧的我只关心这三项",
+      "sourceTitle": "能打、能演、能拍广告？实测可灵AI 4.0的能力边界",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3hQYmZTMzhINDhxcGczXzF3SUl5b3Z6RkxqejBzYnctNnlXTEU4T3QyNmNLU0t4eHdqLV8xemMwOEhtXzVaZzJ0WWtDMldxcWFpVnFVLXZvRXAzdXYzcjFfblFCYzBTZDRuYWstc3VNTjlZbEUwZWFoZXN3MkNOd0w1dzNuRFVM?oc=5"
+    },
+    {
+      "sentAt": 1792943240731,
+      "topic": "《别闹了法姥》3个月涨粉169万：AI情景喜剧的工序和普通短剧差在哪",
+      "headline": "3个月涨粉169万：AI情景喜剧火了，它比普通短剧多做了哪几道工序",
+      "sourceTitle": "3个月涨粉169万，《别闹了法姥》成全网新宠！OiiOii打开AI情景喜剧新赛道",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QQ2ZENkNtY09ZdmJKbWR4bzQ3ZVRmZ21CQlZ5dmJEUDNucDM1TWtjRGIzek5adFhNbGNfX3JpakxzWElGdXhYWWZpY1BmN09rTWRkVmxnall0LTV1VEsxMGhsNmtXME9pVVpzSmQ3WQ?oc=5"
+    },
+    {
       "sentAt": 1792856203076,
       "topic": "Kimi K3.1 Pro 的 Agent 能力，能不能接进短剧分镜与素材整理流程",
       "headline": "Kimi K3.1 Pro 的 Agent 排到第一了：做短剧的我，会先让它干哪件脏活",
@@ -125,20 +139,6 @@
       "headline": "用代码写科普视频：Anything2explainer 实测，哪几步我能直接抄",
       "sourceTitle": "Anything2explainer 评测：AI 用代码写科普视频，调研到成片全流程",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeThJR3Axb0FZT3kwMTBiNklDOHlrYTBYQWlfSUpGckZRNFppZjd3bm02UG9xd0FwU0YyNnNSWmtOUlFnLS1XUVE2eTZBdjUzRDFsbFRyQmk0UHhxMWVJOFVtd1d3WEF5bVR5Y1hIVVlPYlZKZThPeE5lSHNZSFRibnZmMA?oc=5"
-    },
-    {
-      "sentAt": 1791652069944,
-      "topic": "豆包工作上线无限画布，对AI视频/短剧分镜与素材拼装流程意味着什么",
-      "headline": "豆包工作出了无限画布：做AI短剧的分镜，能不能不再来回切窗口",
-      "sourceTitle": "终结碎片化创作！豆包工作上线无限画布",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDF0NzhDUXU1RG1yWXljaHhvS29lOGtOLXNfZG8wRVZaV08xbmRDbEFuSWt2Q2tpclM4b1kxU19XUVM5aUxINzg5bXNDeUpCWW1TU08tZXZrOTBFd2NWXzFqM0l0ZTRjSFRmTGpieEpRRDNwNWtudy1ZSUhrMFBYa2RvR3NfVGtn?oc=5"
-    },
-    {
-      "sentAt": 1791652069944,
-      "topic": "从「10秒很惊艳」到「一部短剧做不出来」，卡点到底在角色一致性、分镜衔接还是口型",
-      "headline": "10秒惊艳、一部短剧难产：我把自己卡住的几个环节逐条对了一遍",
-      "sourceTitle": "10 秒视频很惊艳，为什么 AI 做一部短剧还是这么难？ - InfoQ-CN",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oRlNYX19EdWI3YlBxcG9URnRtazVKc2hqUFNvY21sNFo2aXd4aUpOSV9xa2xzOG1MeXM1ZnFadjZfNGFiN2RCVXpZRTRIVElRSENLZmRFR1E5MHJQZkE?oc=5"
     }
   ]
 }
