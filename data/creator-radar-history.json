@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "sentAt": 1793297591333,
+      "topic": "Seedance 2.5 在即梦短剧工作室里的性价比实测：同样一条片子，哪几步用它、哪几步换别的模型",
+      "headline": "Seedance 2.5 放进短剧工作室：我拿一条旧素材，只换了生成这一步",
+      "sourceTitle": "实测即梦短剧工作室，这可能是 Seedance 2.5 最有性价比的用法",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5idUhNNVBPWUpvM3RCWDl3UWZacEE3MWR5RGhfRGhfVzdsa0I1Yk1LZWtxUWQwSWdfdy1zY3ZuZEY2aG8?oc=5"
+    },
+    {
+      "sentAt": 1793297591333,
+      "topic": "Genspark 新视频 Agent 实测：零基础拍短剧，Agent 替掉的是哪几道工序",
+      "headline": "零基础拍短剧的 Agent 来了：它替我干掉的活，和我还得自己干的活",
+      "sourceTitle": "奥特曼和Dario同台唱rap，Genspark新视频Agent上线，零基础也能拍短剧",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GYktuUG5QOExhVFNMdEhXZ293RE5JWUVnTGJDZTRXdjVxQm5LbVl3cXhMUUt3NUc0eURpdy1ld1U2bjRMNWJxM1ZvUEtDOGdyYlRhR2pR?oc=5"
+    },
+    {
+      "sentAt": 1793297591333,
+      "topic": "5 款免费图生视频 MCP 技能实测：做短剧时哪些镜头可以交给免费技能",
+      "headline": "免费图生视频 MCP 技能试了 5 款：短剧里哪几类镜头真能省下钱",
+      "sourceTitle": "免费图生视频MCP技能实测：这5款好用到我差点删了付费软件",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwTnd5MjVUeWNHTFM2eWhEdGFRRmk1T3RBSFJHdXJ6djlUMm80YmtJOGc3NmYwbVVKZDYyck5KR280T3RRckVYczJtZmpSbHo1WWFXZzVVR0t0QjlPQVE?oc=5"
+    },
+    {
+      "sentAt": 1793297591333,
+      "topic": "Genie 4 音视频同步生成 2 分钟：对短剧里口型和环境声同步有没有实际参考价值",
+      "headline": "世界模型开始音视频同步了：短剧的口型这一步，会被它接走吗",
+      "sourceTitle": "谷歌推出最强世界模型Genie 4，模拟时长翻倍至2分钟、首次实现音视频同步生成，游戏股再迎AI冲击",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oU2o3TnI1VV9VUTlmNEQzNUtVMEtLckxwZm9JenJPbXFNTDR0VWNoaURobW9XYmhJN1FmRHRZbnVRc0hlYjVZX3JhLWw5SWVqdmFn?oc=5"
+    },
+    {
       "sentAt": 1793122970244,
       "topic": "GPT-6.1 Terra 便宜十倍、事实错误率降七成，对短剧分镜和台词校对意味着什么",
       "headline": "GPT-6.1 Terra 便宜了十倍：做短剧的我，会把哪几步交给它",
