@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1793820716052,
+      "topic": "混元Hy4的视觉基模+跨应用Agent，能不能接进短剧的素材整理与分镜初稿流程",
+      "headline": "混元Hy4能跨应用干活了：做短剧的我，先让它干哪两件脏活",
+      "sourceTitle": "混元Hy4实测：基模有了视觉、Agen能跨应用，干活能力到底如何？",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MeDFxV0lWZ3o0cHRUS1pvYXlqTmR3aUk3M01zRVVSZWpROF81Y2l5SzhQQmpaWURINnZOOUdjLVp4TS1sWHExNlJJYkhVUQ?oc=5"
+    },
+    {
+      "sentAt": 1793820716052,
+      "topic": "Krea把64+模型塞进一个套件，对短剧前期出图和风格统一有没有实际用处",
+      "headline": "64个模型装进一个界面：短剧前期设定，我该在哪儿停手",
+      "sourceTitle": "Krea 评测：集成 64+ 前沿模型的一站式创意 AI 套件。",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY245TXEyd1hNV0JDOVBhZTh0NlMtajM1UGlqd1hWRmxMUmE3V25ES1JTNWNLZV9XMGY0dWV5bU84VTJNeXhkWkh0RlhvY1BHNzJlMnIwU1NKMS1hXzE0TFFuWTk2dU9rdXVUbnJvbklhSXloTGk2Tk1XQ1g0R0dDMVZXdHlWbkU0ZmJLc0NjNzVEZFRVdnNFNXhaQkI1bTFqMTJUdHFuMA?oc=5"
+    },
+    {
       "sentAt": 1793655095191,
       "topic": "即梦短剧工作室的计费口径：0.16元/秒和10万字剧本解析，落到一条片子上怎么算账",
       "headline": "0.16元一秒、十万字剧本：即梦短剧工作室这笔账，我按自己的片子算了一遍",
@@ -146,13 +160,6 @@
       "headline": "运镜交给 MCP 技能还是自己写：我把几款视频运镜技能挨个试了一遍",
       "sourceTitle": "可控运镜选哪款视频MCP技能？这篇实测说透别踩坑",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14OUxDRDdlbU1xbjVQUzZXQm1ieXFNbGdkZDhBQ0lEVGptRE5ub3lhbVpWQmwxSFVVbElwY2c3Q1I3WWJ6aW9kSFVYYUpPLTVneHV6ZjVYUE5nN1NER3c?oc=5"
-    },
-    {
-      "sentAt": 1792601508583,
-      "topic": "GPT-6 Sol 和 Luna 发布后，做 AI 短剧的人该先拿哪一步去试：分镜拆解、提示词改写还是口型台词校对",
-      "headline": "GPT-6 出了两个版本：做短剧的我，今晚先拿它试哪三步",
-      "sourceTitle": "隆重推出 GPT-6 Sol 和 Luna",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlM2NrMUY4MnZ1NUVpXzVWYkozUDNBQ1plVWtFLWlQQkpnVTdzVnhmd2ptZTVTeGpBWGZXLVlWUmFiZVMzTExFeEJ1UVZSWVRBRVg2RE5YVDlyUGlPQlJvclBPNzZBN1lUazAtdEVQSXVwRVRwZkE?oc=5"
     }
   ]
 }
