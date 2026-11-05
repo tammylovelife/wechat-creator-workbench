@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "sentAt": 1793907672114,
+      "topic": "腾讯WorkRally升级后，剧本生成到剪辑再到版权存证串成一条线，普通短剧作者该从哪一环切进去",
+      "headline": "腾讯把剧本、剪辑、存证串成一条线了：做短剧的我，会从哪一环切进去",
+      "sourceTitle": "腾讯WorkRally全面升级：覆盖剧本生成、内容创作与剪辑、版权存证全流程",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JZ0FhYWdVVFRlYnBBX0JGSmNFMG5VM1FkdVdnb0lmMkYtb2NieU5neFpYYUJsQl9DRktNS1pWeVFUbGRNcGEtdg?oc=5"
+    },
+    {
+      "sentAt": 1793907672114,
+      "topic": "用Seedance、MiniMax、Gemini各做一集AI漫剧，钱到底花在哪一步，怎么搭配最省",
+      "headline": "三家模型各做一集漫剧：我把成本拆到每个镜头上，看钱花在哪",
+      "sourceTitle": "AI 漫剧实战：Seedance、MiniMax、Gemini 做一集要花多少钱，怎么用最省- OSCHINA - 开源 × AI · 开发者生态社区",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXV0NCMENiaV9pWFdSRWxwUUZvQW5aSkQ5bEJSOWhZMHRsV094MGxBVi12S0pYb1Y5aVJXdHA2VGxGeHBzNGw2c3o4Yw?oc=5"
+    },
+    {
+      "sentAt": 1793907672114,
+      "topic": "飞影进豆包后口播视频变成对话式交付，做短剧旁白和角色口播能不能少一道工序",
+      "headline": "口播视频能“对话式交付”了：短剧里的旁白和对白，我分开试了一遍",
+      "sourceTitle": "飞影入驻豆包推动AIGC全链路进化，口播视频实现对话式交付",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QZFB5cXJvUl92RzJyQzMtNm5fYndRX1dYNkxyZDF0eXRzN01vMGEwZHg5TV9ZQ0p3N0lWRkVmTVkycW1OVGI1TmZuaHFTb3lVX01pczNwSS1XYUhnTGc?oc=5"
+    },
+    {
+      "sentAt": 1793907672114,
+      "topic": "GPT Images 2.6 支持一句话出GIF，短剧的表情包和二创物料能不能顺手做出来",
+      "headline": "新模型能一句话出GIF了：短剧角色的表情包，我拿它试了试",
+      "sourceTitle": "GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yZElDMmtjMXp0M016eUpRQVRQX3JCSS05cXAxSTBwS0ZuXzR3MXpuVmxINVpveDVDaHVsWXdOblg0VTg?oc=5"
+    },
+    {
       "sentAt": 1793820716052,
       "topic": "混元Hy4的视觉基模+跨应用Agent，能不能接进短剧的素材整理与分镜初稿流程",
       "headline": "混元Hy4能跨应用干活了：做短剧的我，先让它干哪两件脏活",
@@ -153,13 +181,6 @@
       "headline": "GPT-6有了“快脑”：写分镜时让它即时挑错，值不值得接进流程",
       "sourceTitle": "OpenAI给GPT-6装上“快脑”！100毫秒做决策，API全面开放",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IeHI1LUVZMmJpajlBbE5zQTAyTTZWdFdsT2tSSllTMnFOVjlxUklUTnB2WW5XRWtJY0xCUHhzTmNyRUFoSUdWRl9tTXFnM2VxNmxONmwzUFZkcnB3amFnNkxpZFBYeThYdktaRndLUmpOTlNndlhJWUhOR0ZndkE?oc=5"
-    },
-    {
-      "sentAt": 1792687908229,
-      "topic": "可控运镜的视频 MCP 技能实测：做短剧时，运镜到底该交给技能还是自己写提示词",
-      "headline": "运镜交给 MCP 技能还是自己写：我把几款视频运镜技能挨个试了一遍",
-      "sourceTitle": "可控运镜选哪款视频MCP技能？这篇实测说透别踩坑",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14OUxDRDdlbU1xbjVQUzZXQm1ieXFNbGdkZDhBQ0lEVGptRE5ub3lhbVpWQmwxSFVVbElwY2c3Q1I3WWJ6aW9kSFVYYUpPLTVneHV6ZjVYUE5nN1NER3c?oc=5"
     }
   ]
 }
