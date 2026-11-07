@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "sentAt": 1794072987597,
+      "topic": "谷歌新视频模型360p每秒0.07美元、可升4K，做短剧时哪些镜头该用它、哪些别用",
+      "headline": "每秒七分钱的视频模型来了：短剧里哪几类镜头，我会先交给它",
+      "sourceTitle": "刚刚，Gemini Omini 1.2登顶了！360p视频每秒0.07美元，还能升4K",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RM2RBbFRSc0dYRi0tSXZxWnNNVTVkNG1kUDRlZ3lvd0txODFVNEk1bW1PeVhUdm1JOTA5QUhLekx3emtMVUtVcQ?oc=5"
+    },
+    {
+      "sentAt": 1794072987597,
+      "topic": "谷歌视频新模型双榜第一、价格再砍三成，对正在选主力模型的短剧作者意味着什么",
+      "headline": "榜单第一、价格再降三成：我该不该把短剧主力模型换掉",
+      "sourceTitle": "谷歌视频新模型双榜第一，力压Grok、Seedance，价格再砍三成",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51M0lzNUFNTU1HcGpOSGxxTXdFcHhLS0hpNEJUM1VRaXUxeG05cWpacFdoYW1hWTl0cGtIS0x5elgzcXplSTJqLU1vY1ZkQQ?oc=5"
+    },
+    {
+      "sentAt": 1794072987597,
+      "topic": "即梦短剧工作室的伙伴计划与“全能剧组”定位，普通创作者能实际用到哪几块",
+      "headline": "即梦说要给创作者配一个“全能剧组”：我先去确认哪些角色现在就能上场",
+      "sourceTitle": "专业模型集结，伙伴计划助力，即梦短剧工作室为创作者打造“全能剧组”",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SWTRsUjNXV0Q5WXhrT1d2VThpLVlHWHZQUVVsRmNKTnBNMThvVVR0Y1lwYU1zT3h2VTBKOGFEM1hRbnNkQlZmMi04V0VDN09v?oc=5"
+    },
+    {
       "sentAt": 1793991828892,
       "topic": "Ponder AI 一句话把原始素材变成粗剪，短剧拍完那一堆废镜头能不能先交给它",
       "headline": "一句话出粗剪的工具来了：短剧拍完那堆素材，我先让它挑一遍",
@@ -160,27 +181,6 @@
       "headline": "3个月涨粉169万：AI情景喜剧火了，它比普通短剧多做了哪几道工序",
       "sourceTitle": "3个月涨粉169万，《别闹了法姥》成全网新宠！OiiOii打开AI情景喜剧新赛道",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QQ2ZENkNtY09ZdmJKbWR4bzQ3ZVRmZ21CQlZ5dmJEUDNucDM1TWtjRGIzek5adFhNbGNfX3JpakxzWElGdXhYWWZpY1BmN09rTWRkVmxnall0LTV1VEsxMGhsNmtXME9pVVpzSmQ3WQ?oc=5"
-    },
-    {
-      "sentAt": 1792856203076,
-      "topic": "Kimi K3.1 Pro 的 Agent 能力，能不能接进短剧分镜与素材整理流程",
-      "headline": "Kimi K3.1 Pro 的 Agent 排到第一了：做短剧的我，会先让它干哪件脏活",
-      "sourceTitle": "刚刚，Kimi K3.1 Pro杀进全球前四，Agent第一",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93R3Vma0luTW5iNy1HSk1UQUZkdlV3eWFPZ1F5dzYzQnJBa0I4UHF3d2hJZGNSUEtmRGhQRE1maVJQRHVSQW1UUUxqRVUwX2FY?oc=5"
-    },
-    {
-      "sentAt": 1792856203076,
-      "topic": "首部拿龙标的AI电影票房破50万，100分钟正片里哪些工序撑住了、哪些塌了",
-      "headline": "第一部拿龙标的AI电影卖了50万：100分钟里，哪几步最先露馅",
-      "sourceTitle": "首部拿“龙标”的AI电影票房破50万，100分钟留得住观众吗？",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxaFNCY1lwVHBCQWl3LU5OR3VCUDJSNHo3WDdPdzlqSnhWc2dtMmZVSEpXTjYtdWFLN3BBNWp2WERNRjZTaUU2RUVoOWFmRk9YYTI5a3ZKZDdzQXNsTXJ0T0R1SDRGZw?oc=5"
-    },
-    {
-      "sentAt": 1792856203076,
-      "topic": "3名工科生做出6亿播放AI短剧，他们的工序和普通创作者差在哪",
-      "headline": "3个工科生做出6亿播放：他们省掉的工序，我能不能也省",
-      "sourceTitle": "3名工科生，用AI做出6亿播放短剧",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vMmR5RDVQS1h6NDUyWU5IMGVVa2tqSk5CUV83a3hLdVpSNXRkeVZNSFZaWVVjTVhUY01kNkxJdUtYX0E4RnQ1YWFuUWZHZ0MwQmxYVnV1dTFNazZwdXpqNEdKaWwyeklTdWNWMVpPVUx5OEJmUDdNbTljX2E?oc=5"
     }
   ]
 }
