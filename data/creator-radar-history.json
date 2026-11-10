@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1794338898456,
+      "topic": "谷歌 Gemini Omni 1.2 Flash 上线 PixTV，做短剧时哪几类镜头值得先换过去试",
+      "headline": "谷歌新视频模型上了 PixTV：我先拿旧分镜里的几个镜头换过去试",
+      "sourceTitle": "谷歌视频新模型来了！Gemini Omni 1.2 Flash现已上线PixTV",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHRTNTY2Q1YVRuQVVxNTR4TE1SbFp1Mk84cjVfX2ZSRkdHekRhSFdHRFctU2VucmhJWi03Q0pkQWFKMjJkUkc1UHBwS3hRdGZpb3E5MGdPVUpVeGo5dzhxM3JDWHJnU2FwRjZ1cE9B?oc=5"
+    },
+    {
+      "sentAt": 1794338898456,
+      "topic": "WellSaid Producer 把 AI 配音接进 MCP 工作流，短剧旁白和角色对白能不能少一道手工导出",
+      "headline": "配音也能接进 MCP 工作流了：短剧的对白环节，能省掉哪几步手工活",
+      "sourceTitle": "WellSaid Producer 将 AI 配音制作引入 MCP 工作流",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWktQWEg0bTJneGYtc05IRVhYSXhGcDFuN2xGUEJNMUwtVEhCMFR5LVE2TGUwMTZLZFhQMDB4cHlnS1Q1M1hVN0ZNd3VkV0pJYnQyeG5JbExyTmp6U2ptZ3dmdWdWTjNHaWhDaEZMeVhsVWJRaHhuZDlRbGp5RDRReV9TOHFvbTM0Z3FxTThjVnZaZFV5SDVJNTB3bw?oc=5"
+    },
+    {
       "sentAt": 1794072987597,
       "topic": "谷歌新视频模型360p每秒0.07美元、可升4K，做短剧时哪些镜头该用它、哪些别用",
       "headline": "每秒七分钱的视频模型来了：短剧里哪几类镜头，我会先交给它",
@@ -139,20 +153,6 @@
       "headline": "世界模型开始音视频同步了：短剧的口型这一步，会被它接走吗",
       "sourceTitle": "谷歌推出最强世界模型Genie 4，模拟时长翻倍至2分钟、首次实现音视频同步生成，游戏股再迎AI冲击",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oU2o3TnI1VV9VUTlmNEQzNUtVMEtLckxwZm9JenJPbXFNTDR0VWNoaURobW9XYmhJN1FmRHRZbnVRc0hlYjVZX3JhLWw5SWVqdmFn?oc=5"
-    },
-    {
-      "sentAt": 1793122970244,
-      "topic": "GPT-6.1 Terra 便宜十倍、事实错误率降七成，对短剧分镜和台词校对意味着什么",
-      "headline": "GPT-6.1 Terra 便宜了十倍：做短剧的我，会把哪几步交给它",
-      "sourceTitle": "GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！价格仅1/10",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeW1PeGFXb3A0WUhpc2J1bzBYRk9mclQtWkt0QTFYQ0NpdFFlVmJPM20tTGlXM0J0NGozZTRpYWRMQzlPTV95ZlpGNllvX1l3QjFVMXNWb2dtQTQ2NUYtenk1Z1prdVh6cV9EVk5JR0NBaU5Fa1MzX1FPUE9aamp1UVBzOA?oc=5"
-    },
-    {
-      "sentAt": 1793122970244,
-      "topic": "AI漫剧价格跌96%后，个人创作者的成本账该怎么重算",
-      "headline": "AI漫剧价格跌了96%：我的单条成本为什么没跟着降",
-      "sourceTitle": "价格跌96%，AI漫剧老板：行业已死",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xZi1ESVJobUo4a08tVi1vZ2JMbW9KZlV5cWZwa3ZaM1h5RVZOQ0cyUUtTQUhhWnNDbWstLTlyRmx0NE9vM3JVUFNlR3JsZw?oc=5"
     }
   ]
 }
