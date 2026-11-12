@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1794512472656,
+      "topic": "Seedance 2.5 版本更新但上限反而更低，短剧作者该不该升级、哪些镜头退回 2.0",
+      "headline": "Seedance 2.5 更新了，上限却更低：我拿旧分镜对比后，决定哪些镜头先别升级",
+      "sourceTitle": "Seedance 2.5 对比 Seedance 2.0：版本更新，但上限更低",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xSFFKaHZZeGVkZVhDNTVaTXN1R013SmlpbHVCR1R0UEhmZDRVZl8zSk5ZZEo5UGJwNm4xU3EzaEM3aW9uQm1TQXAxc1VhWW9JYURwZ1RlcVZtV1FYZkgzc0llektQTTRjaUdrYW91Y2xLdlBMcnRCaURUbGNIUQ?oc=5"
+    },
+    {
+      "sentAt": 1794512472656,
+      "topic": "浏览器里跑本地 AI 剪辑：WebAssembly 全流程本地化对短剧素材整理和粗剪的实际用处",
+      "headline": "剪辑不用装软件、在浏览器里本地跑：短剧那堆素材，我先拿它试了粗剪这一步",
+      "sourceTitle": "浏览器原生AI视频剪辑：WebAssembly驱动的全流程本地化工作流",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HRlprS2RNWlhpOUFZOWFyb0FTZ05yVlF5Y2lDTHlhdW9JdWM0NnRtRVhNdHFqcHU4UzcwNzl3Ry1XUXNzV0Q0eE44Rk1QdXM4YzhtczVNVVZEdFBKa1l6Sw?oc=5"
+    },
+    {
       "sentAt": 1794425018255,
       "topic": "本地部署 MiniMax H3 做短剧抽卡：成本几乎为零，但哪些镜头值得自己跑",
       "headline": "把视频模型装进自己电脑：短剧里哪几类镜头，我打算本地反复抽",
@@ -139,34 +153,6 @@
       "headline": "有个AI视频平台30天不要积分：这一个月我打算只试这几类镜头",
       "sourceTitle": "AI视频圈双11最狠的一刀，LibTV先砍了! 0积分无限用30天!",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WZmxFVlhCVGk5V1doaTc3MDJvQ0NIQ3B3RTRVQzFfUEZLQkxJNXowNl9JNmRMTTNfUXNVQlF1TG91YkxKd3R0VTRPdlFqYnh6?oc=5"
-    },
-    {
-      "sentAt": 1793297591333,
-      "topic": "Seedance 2.5 在即梦短剧工作室里的性价比实测：同样一条片子，哪几步用它、哪几步换别的模型",
-      "headline": "Seedance 2.5 放进短剧工作室：我拿一条旧素材，只换了生成这一步",
-      "sourceTitle": "实测即梦短剧工作室，这可能是 Seedance 2.5 最有性价比的用法",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5idUhNNVBPWUpvM3RCWDl3UWZacEE3MWR5RGhfRGhfVzdsa0I1Yk1LZWtxUWQwSWdfdy1zY3ZuZEY2aG8?oc=5"
-    },
-    {
-      "sentAt": 1793297591333,
-      "topic": "Genspark 新视频 Agent 实测：零基础拍短剧，Agent 替掉的是哪几道工序",
-      "headline": "零基础拍短剧的 Agent 来了：它替我干掉的活，和我还得自己干的活",
-      "sourceTitle": "奥特曼和Dario同台唱rap，Genspark新视频Agent上线，零基础也能拍短剧",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GYktuUG5QOExhVFNMdEhXZ293RE5JWUVnTGJDZTRXdjVxQm5LbVl3cXhMUUt3NUc0eURpdy1ld1U2bjRMNWJxM1ZvUEtDOGdyYlRhR2pR?oc=5"
-    },
-    {
-      "sentAt": 1793297591333,
-      "topic": "5 款免费图生视频 MCP 技能实测：做短剧时哪些镜头可以交给免费技能",
-      "headline": "免费图生视频 MCP 技能试了 5 款：短剧里哪几类镜头真能省下钱",
-      "sourceTitle": "免费图生视频MCP技能实测：这5款好用到我差点删了付费软件",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwTnd5MjVUeWNHTFM2eWhEdGFRRmk1T3RBSFJHdXJ6djlUMm80YmtJOGc3NmYwbVVKZDYyck5KR280T3RRckVYczJtZmpSbHo1WWFXZzVVR0t0QjlPQVE?oc=5"
-    },
-    {
-      "sentAt": 1793297591333,
-      "topic": "Genie 4 音视频同步生成 2 分钟：对短剧里口型和环境声同步有没有实际参考价值",
-      "headline": "世界模型开始音视频同步了：短剧的口型这一步，会被它接走吗",
-      "sourceTitle": "谷歌推出最强世界模型Genie 4，模拟时长翻倍至2分钟、首次实现音视频同步生成，游戏股再迎AI冲击",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oU2o3TnI1VV9VUTlmNEQzNUtVMEtLckxwZm9JenJPbXFNTDR0VWNoaURobW9XYmhJN1FmRHRZbnVRc0hlYjVZX3JhLWw5SWVqdmFn?oc=5"
     }
   ]
 }
