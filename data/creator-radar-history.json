@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "sentAt": 1794597803566,
+      "topic": "MiniMax H3-Image 实测：10 秒 4K 直出，短剧前期设定图能不能交给它",
+      "headline": "10 秒出 4K 设定图：短剧前期那批角色和场景，我先交给它试了一轮",
+      "sourceTitle": "MiniMax H3-Image 实测：10秒4K直出，合格的工业流水线，而非灵性艺术家",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qRDByd19mNWJIT1dVOVZEZnNxcVpTa3E2SkhNQXBpdldsNGZ6R0RldVhvRU1qVndta2JOdkFpbU0wU3oyU2YzZWxrVDZPRzJRWThacWp4TkE2VElDQkY2c3l2MXNqR3lxeE5yclh1WWFSVEFrQ2VKc1o4N2U?oc=5"
+    },
+    {
+      "sentAt": 1794597803566,
+      "topic": "一秒 5 分钱的 AI MV 工作台，短剧片头曲和主题曲能不能顺手做",
+      "headline": "一秒五分钱做一支 MV：短剧的片头和主题曲，我拿它试了一遍",
+      "sourceTitle": "一秒5分钱、10元内拍出音乐大片：苏诺之音AI MV工作台评测",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBENFRWWjJhUTBsbXAtSjQ2T2Nqa3VuUExVdGlCYXh3aW5CUlhOSFpGdmMyZTVCZkVheGJnSlpjdm1VWGVRNU0tZk5LTFhnUHpWcEE?oc=5"
+    },
+    {
+      "sentAt": 1794597803566,
+      "topic": "1.6 亿播放只赚 39 万：AI 短剧的钱到底被谁拿走了，普通作者该怎么算这笔账",
+      "headline": "1.6 亿播放赚 39 万：我按自己一条片子，把 AI 短剧的钱重新算了一遍",
+      "sourceTitle": "1.6 亿播放赚 39 万：AI 短剧的暴利，全给云厂商打了工",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSMExLVnRtMWdWMXhlM3Y5eDZINUdjNVk3b0xYekZRQ2dFN3pNVmJYMHVmZWNHdkFyUUw4ZlhlQnNZbUY2Nlhwa3RzZ1ZUTktEY2t3eG1lU0ozQjNRTjE2ZHEyRQ?oc=5"
+    },
+    {
       "sentAt": 1794512472656,
       "topic": "Seedance 2.5 版本更新但上限反而更低，短剧作者该不该升级、哪些镜头退回 2.0",
       "headline": "Seedance 2.5 更新了，上限却更低：我拿旧分镜对比后，决定哪些镜头先别升级",
@@ -139,20 +160,6 @@
       "headline": "Lovart 2.0 开始“主动设计”了：做短剧前期设定，它能替我想到哪一步",
       "sourceTitle": "从AI生成到主动设计：2026年Lovart 2.0有哪些升级",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDRDhhT1NadXFpemtsOGh5LTBoUEhtR0VHWUpnUDJLTFFMRlYxT0xaT1ZHLWx1STNDRW1jdXRqV3cyOVpBMU44Mm16azZvNjg2OF9YRXg2RjFhY3REZzJPWmltUHpMTzEtSVUwNkhn?oc=5"
-    },
-    {
-      "sentAt": 1793382648773,
-      "topic": "SkyProduction接入可灵4.0后，第三方制作平台和官方工作台该怎么分工",
-      "headline": "可灵4.0被接进别人的制作平台了：我该在哪个界面里干活",
-      "sourceTitle": "昆仑万维旗下 SkyProduction 接入可灵 Kling 4.0",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XbHpSR1EtZWpoTURlU2hfTzZUUHVNMEo2QnpFckQ4ZkZnNnZqZ24wVFRDZ2ozUE1CVThTU3JFTkhfZTQ1VnJwRUpHLUdPZw?oc=5"
-    },
-    {
-      "sentAt": 1793382648773,
-      "topic": "LibTV 30天0积分无限用，做短剧的人该拿这一个月试哪几类镜头",
-      "headline": "有个AI视频平台30天不要积分：这一个月我打算只试这几类镜头",
-      "sourceTitle": "AI视频圈双11最狠的一刀，LibTV先砍了! 0积分无限用30天!",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WZmxFVlhCVGk5V1doaTc3MDJvQ0NIQ3B3RTRVQzFfUEZLQkxJNXowNl9JNmRMTTNfUXNVQlF1TG91YkxKd3R0VTRPdlFqYnh6?oc=5"
     }
   ]
 }
