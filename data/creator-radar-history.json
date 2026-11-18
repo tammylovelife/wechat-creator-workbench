@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "sentAt": 1795032628317,
+      "topic": "Seedance 2.5 的 4K 生产线对短剧出片流程意味着什么：哪些镜头终于可以直出、哪些仍要回退",
+      "headline": "Seedance 2.5 有了 4K 生产线：短剧里哪几类镜头，我终于可以不再放大",
+      "sourceTitle": "即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE44c0NGR1RtSGRrWGRiaHEwNTgwMGxKcUZCcUJraFItLVpQZGFITWlQUF9qNVhQNXhvME5STWlHdkZYaUE?oc=5"
+    },
+    {
+      "sentAt": 1795032628317,
+      "topic": "苏诺之音把多轨剪辑台搬进浏览器：短剧素材整理与粗剪能不能不开剪映",
+      "headline": "多轨剪辑台搬进浏览器了：短剧那堆素材，我先不开剪映试了一轮",
+      "sourceTitle": "把多轨剪辑台搬进浏览器：实测苏诺之音AI视频剪辑功能",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRWXpjUTFDSDRldWpmRF9Za0ZuVU5RYnJGb2Jrd24yQjQtM1ZMTTNIT1BiUTM3SWpjMU8wcWNJbGVzdWI0MmgxeFU0ejNTdUVaUFpEd0UtUUc?oc=5"
+    },
+    {
+      "sentAt": 1795032628317,
+      "topic": "做完 MV 不用再开剪映：网页端 AI 剪辑对短剧片头、主题曲环节的实际用处",
+      "headline": "片头和主题曲能不能在网页里剪完：我把短剧这一段单独试了一遍",
+      "sourceTitle": "做完MV不用再开剪映：苏诺之音上线网页端AI视频剪辑",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1raUNvektOSGRPMW9BcjZUdHFrT2dNcFdNTVRpNVZoS3VSdTFiM1BIVktVd3dzQXRUdzVfMWJNVzhucWNwRzVfcUhCOWw?oc=5"
+    },
+    {
       "sentAt": 1794678430509,
       "topic": "Seedance 2.5 与 FLUX 3 Video 的“22 倍”宣称被第三方逐条审视，短剧作者该怎么读这类跑分",
       "headline": "“22 倍”到底快在哪：我拿短剧里最常见的几类镜头，对着这个宣称逐条核对",
@@ -139,20 +160,6 @@
       "headline": "新模型能一句话出GIF了：短剧角色的表情包，我拿它试了试",
       "sourceTitle": "GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yZElDMmtjMXp0M016eUpRQVRQX3JCSS05cXAxSTBwS0ZuXzR3MXpuVmxINVpveDVDaHVsWXdOblg0VTg?oc=5"
-    },
-    {
-      "sentAt": 1793820716052,
-      "topic": "混元Hy4的视觉基模+跨应用Agent，能不能接进短剧的素材整理与分镜初稿流程",
-      "headline": "混元Hy4能跨应用干活了：做短剧的我，先让它干哪两件脏活",
-      "sourceTitle": "混元Hy4实测：基模有了视觉、Agen能跨应用，干活能力到底如何？",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MeDFxV0lWZ3o0cHRUS1pvYXlqTmR3aUk3M01zRVVSZWpROF81Y2l5SzhQQmpaWURINnZOOUdjLVp4TS1sWHExNlJJYkhVUQ?oc=5"
-    },
-    {
-      "sentAt": 1793820716052,
-      "topic": "Krea把64+模型塞进一个套件，对短剧前期出图和风格统一有没有实际用处",
-      "headline": "64个模型装进一个界面：短剧前期设定，我该在哪儿停手",
-      "sourceTitle": "Krea 评测：集成 64+ 前沿模型的一站式创意 AI 套件。",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY245TXEyd1hNV0JDOVBhZTh0NlMtajM1UGlqd1hWRmxMUmE3V25ES1JTNWNLZV9XMGY0dWV5bU84VTJNeXhkWkh0RlhvY1BHNzJlMnIwU1NKMS1hXzE0TFFuWTk2dU9rdXVUbnJvbklhSXloTGk2Tk1XQ1g0R0dDMVZXdHlWbkU0ZmJLc0NjNzVEZFRVdnNFNXhaQkI1bTFqMTJUdHFuMA?oc=5"
     }
   ]
 }
