@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1795203973980,
+      "topic": "豆包工作接入跳跃视界后，一个人做短剧的流水线到底能省哪几步",
+      "headline": "一个人开短剧工厂：豆包工作接进跳跃视界后，我先试了哪几步能省",
+      "sourceTitle": "豆包工作接入跳跃视界 一人也能开短剧工厂",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xTmRidWxvTkhCcnRxaWUycWRnWTgwQk9RUUpOYlByRDVlRlBJV0hGOFVkUGRHWlNIZ3JDbkE1eEVzbEJwdTdKVGJYZ3Q?oc=5"
+    },
+    {
+      "sentAt": 1795203973980,
+      "topic": "Seedance 2.5 的 4K 实测细节里，短剧哪些镜头值得直出、哪些仍要回退",
+      "headline": "4K 实测里细节惊艳，但短剧这三类镜头我仍会回退",
+      "sourceTitle": "这这这居然是AI拍的？即梦Seedance 2.5 4K上手实测，细节惊艳",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rOGd2TnBUSTc4elBFV0FZLUlNeUVsb1BwaEo1N2tjQjJSbFJ6THFtUzIwZTlMcVBHbkZ4alFFTENudGF2cmxWdg?oc=5"
+    },
+    {
       "sentAt": 1795032628317,
       "topic": "Seedance 2.5 的 4K 生产线对短剧出片流程意味着什么：哪些镜头终于可以直出、哪些仍要回退",
       "headline": "Seedance 2.5 有了 4K 生产线：短剧里哪几类镜头，我终于可以不再放大",
@@ -118,20 +132,6 @@
       "headline": "即梦说要给创作者配一个“全能剧组”：我先去确认哪些角色现在就能上场",
       "sourceTitle": "专业模型集结，伙伴计划助力，即梦短剧工作室为创作者打造“全能剧组”",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SWTRsUjNXV0Q5WXhrT1d2VThpLVlHWHZQUVVsRmNKTnBNMThvVVR0Y1lwYU1zT3h2VTBKOGFEM1hRbnNkQlZmMi04V0VDN09v?oc=5"
-    },
-    {
-      "sentAt": 1793991828892,
-      "topic": "Ponder AI 一句话把原始素材变成粗剪，短剧拍完那一堆废镜头能不能先交给它",
-      "headline": "一句话出粗剪的工具来了：短剧拍完那堆素材，我先让它挑一遍",
-      "sourceTitle": "Ponder AI：只需一个提示词，即可将原始素材变成专业粗剪",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3RCaWRBcHVnYVp5c0U2YkVndzV2WkFpVTREUnJMRC0xLXZGdGJSOHBiMjdkbkNxMTVIV2lDckJoNTg3OFFhUWVXYVVtQTIzMG9QNHdpbVJDc2o5ZUI5bjlERXRxTTFBY1J4cG10ZFZlRjNFQnR1VnNDb242UUFJcEpqSENZLWZMNGdrZDRxSnRvX3NWT3AwQ1YxbDVJNEQ1WTNtbzI3czNGTG1SSElQS0ltSXE?oc=5"
-    },
-    {
-      "sentAt": 1793991828892,
-      "topic": "PixVerse 与 OpenAI 的“从提示词到成片”教育计划，对零基础做短剧的人意味着什么",
-      "headline": "有人开始教“从提示词到成片”了：零基础做短剧，缺的真是这一课吗",
-      "sourceTitle": "爱诗科技旗下PixVerse与OpenAI推出“从提示词到成片”教育计划",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1reVZOaE1wVndyWnJMSE5EMThuUkdKYXRvb1NHWlhMMzRCT0d6TEpoWlZSUWw0c3JybWszTXV3ZkNJTGdzbXc?oc=5"
     }
   ]
 }
