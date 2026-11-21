@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "sentAt": 1795287139048,
+      "topic": "即梦 AI 三大工作室实测：普通创作者不拍片，能不能靠分镜+角色一致性把一条短剧片段走完",
+      "headline": "不会拍片也能当导演？我把即梦三个工作室按短剧流程走了一遍",
+      "sourceTitle": "ZPedia｜实测即梦 AI 三大工作室：不会拍片？没关系，你也是导演了",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzFyemU5eUN2TmIxUzdveVBzc0l0MDlVVWd1VDBSOHZURGcwU1cyNVlYU2pYcHNVeEhVSFB3RXlqR2pCWnNkeVdsX2x6bmFvRHg2Vl9KTDZBOGlqOVZZWmtfTHNEaEwxNjdhWFVaS2o4Mkp1WVVlRmkxajN4TV82YnB0VVZaeXFyVk9KSQ?oc=5"
+    },
+    {
       "sentAt": 1795203973980,
       "topic": "豆包工作接入跳跃视界后，一个人做短剧的流水线到底能省哪几步",
       "headline": "一个人开短剧工厂：豆包工作接进跳跃视界后，我先试了哪几步能省",
@@ -111,27 +118,6 @@
       "headline": "配音也能接进 MCP 工作流了：短剧的对白环节，能省掉哪几步手工活",
       "sourceTitle": "WellSaid Producer 将 AI 配音制作引入 MCP 工作流",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWktQWEg0bTJneGYtc05IRVhYSXhGcDFuN2xGUEJNMUwtVEhCMFR5LVE2TGUwMTZLZFhQMDB4cHlnS1Q1M1hVN0ZNd3VkV0pJYnQyeG5JbExyTmp6U2ptZ3dmdWdWTjNHaWhDaEZMeVhsVWJRaHhuZDlRbGp5RDRReV9TOHFvbTM0Z3FxTThjVnZaZFV5SDVJNTB3bw?oc=5"
-    },
-    {
-      "sentAt": 1794072987597,
-      "topic": "谷歌新视频模型360p每秒0.07美元、可升4K，做短剧时哪些镜头该用它、哪些别用",
-      "headline": "每秒七分钱的视频模型来了：短剧里哪几类镜头，我会先交给它",
-      "sourceTitle": "刚刚，Gemini Omini 1.2登顶了！360p视频每秒0.07美元，还能升4K",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RM2RBbFRSc0dYRi0tSXZxWnNNVTVkNG1kUDRlZ3lvd0txODFVNEk1bW1PeVhUdm1JOTA5QUhLekx3emtMVUtVcQ?oc=5"
-    },
-    {
-      "sentAt": 1794072987597,
-      "topic": "谷歌视频新模型双榜第一、价格再砍三成，对正在选主力模型的短剧作者意味着什么",
-      "headline": "榜单第一、价格再降三成：我该不该把短剧主力模型换掉",
-      "sourceTitle": "谷歌视频新模型双榜第一，力压Grok、Seedance，价格再砍三成",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51M0lzNUFNTU1HcGpOSGxxTXdFcHhLS0hpNEJUM1VRaXUxeG05cWpacFdoYW1hWTl0cGtIS0x5elgzcXplSTJqLU1vY1ZkQQ?oc=5"
-    },
-    {
-      "sentAt": 1794072987597,
-      "topic": "即梦短剧工作室的伙伴计划与“全能剧组”定位，普通创作者能实际用到哪几块",
-      "headline": "即梦说要给创作者配一个“全能剧组”：我先去确认哪些角色现在就能上场",
-      "sourceTitle": "专业模型集结，伙伴计划助力，即梦短剧工作室为创作者打造“全能剧组”",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SWTRsUjNXV0Q5WXhrT1d2VThpLVlHWHZQUVVsRmNKTnBNMThvVVR0Y1lwYU1zT3h2VTBKOGFEM1hRbnNkQlZmMi04V0VDN09v?oc=5"
     }
   ]
 }
