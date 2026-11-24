@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "sentAt": 1795557913082,
+      "topic": "腾讯云漫剧产线宣称“日产1300集、成本降至5%”，普通创作者能抄走哪几道工序",
+      "headline": "日产1300集、成本降到5%：这套漫剧流水线里，我一个人能抄走哪几步",
+      "sourceTitle": "腾讯云全栈AIGC方案：漫剧日产1300集，成本降至5%",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RanVPSFVWZm5tVGNSTWpEc3haYV9yRnVVU3c3WDZVNWk2bW1yTzhiN2FHNFAyRkg4QWgzZ0RBTURneUdyajVsOThmM29NNFlJSUJvTmhld2hQeHBOaEdJ?oc=5"
+    },
+    {
+      "sentAt": 1795557913082,
+      "topic": "从文生图到音画同步：漫剧产线里“口型和配音对齐”这一步到底怎么排工序",
+      "headline": "先配音还是先出画面：短剧口型对不齐，问题多半出在工序顺序上",
+      "sourceTitle": "腾讯云AIGC漫剧生产全栈方案：从文生图到音画同步",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiQ0YtUVRITmU5RzlRMmtmZTNyY3Q0bGdzV0ZSYUhoaVRTOV9QUl92SnhhODRvdW5MQmdNVnV0SkpCUHM5dkxPUnRLZzYyZ2dEeDhXV09lMVRLZWwyRjZr?oc=5"
+    },
+    {
+      "sentAt": 1795557913082,
+      "topic": "ComfyUI 部署方案对比：算力、调度、持久化三项，本地跑视频工作流该先看哪个",
+      "headline": "本地跑 ComfyUI 总在重来：算力、调度、持久化，我按视频抽卡场景排了个优先级",
+      "sourceTitle": "ComfyUI部署方案深度对比：算力、调度与持久化三要素",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1veGpwREtSLVlGcUVjLUtrR01GaHZpVVdheGZqcUZFZjczNkVZNmVoOXB5UmZ5T3FnalJIUmw2VENfaWJ2VnFGMWtNMjdUN1hqYXkxZWhvc1dHQTVFVDhn?oc=5"
+    },
+    {
+      "sentAt": 1795557913082,
+      "topic": "本地内容生产线把 ComfyUI、TTS、OCR 和图生视频串起来，短剧哪一段适合放本地",
+      "headline": "把配音和设定图搬回自己电脑：短剧里这两段，我打算先不花钱",
+      "sourceTitle": "本地AI内容生产线：ComfyUI、TTS、OCR与图生视频部署指南",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82Nnc5bjI0dFZKcS13SHlPZV9vRkVZcGxjU28zcDlUNTl5U1Y0bU90NGlQNlZuU0JiWlRzcFgxOE1iVWhUeHNUWjVnVW82T0loNS1Mcm1qNUU4ZU1TNE9r?oc=5"
+    },
+    {
       "sentAt": 1795476933635,
       "topic": "可灵 4.0 上线后，短剧里哪几类镜头值得先换过去试",
       "headline": "可灵 4.0 上线了：我拿旧分镜里的三类镜头，先换过去试了一轮",
@@ -111,20 +139,6 @@
       "headline": "聚合平台生视频便宜又方便：我踩过的几个坑，你下单前先看一眼",
       "sourceTitle": "聚合平台调用AI生视频，便利背后这些坑你踩过吗",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pVjBpMkt0eHE3azJldXZWSTRhYmxZQ0NINGpXa2hsRWVyOVRqM0x0U256bE0wT2pSRlAtQWZ5N295bE8xY0VJb2UxSXppNXFsbm43dWxOMEFUU3dSeGc?oc=5"
-    },
-    {
-      "sentAt": 1794338898456,
-      "topic": "谷歌 Gemini Omni 1.2 Flash 上线 PixTV，做短剧时哪几类镜头值得先换过去试",
-      "headline": "谷歌新视频模型上了 PixTV：我先拿旧分镜里的几个镜头换过去试",
-      "sourceTitle": "谷歌视频新模型来了！Gemini Omni 1.2 Flash现已上线PixTV",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHRTNTY2Q1YVRuQVVxNTR4TE1SbFp1Mk84cjVfX2ZSRkdHekRhSFdHRFctU2VucmhJWi03Q0pkQWFKMjJkUkc1UHBwS3hRdGZpb3E5MGdPVUpVeGo5dzhxM3JDWHJnU2FwRjZ1cE9B?oc=5"
-    },
-    {
-      "sentAt": 1794338898456,
-      "topic": "WellSaid Producer 把 AI 配音接进 MCP 工作流，短剧旁白和角色对白能不能少一道手工导出",
-      "headline": "配音也能接进 MCP 工作流了：短剧的对白环节，能省掉哪几步手工活",
-      "sourceTitle": "WellSaid Producer 将 AI 配音制作引入 MCP 工作流",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWktQWEg0bTJneGYtc05IRVhYSXhGcDFuN2xGUEJNMUwtVEhCMFR5LVE2TGUwMTZLZFhQMDB4cHlnS1Q1M1hVN0ZNd3VkV0pJYnQyeG5JbExyTmp6U2ptZ3dmdWdWTjNHaWhDaEZMeVhsVWJRaHhuZDlRbGp5RDRReV9TOHFvbTM0Z3FxTThjVnZaZFV5SDVJNTB3bw?oc=5"
     }
   ]
 }
