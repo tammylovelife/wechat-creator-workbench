@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "sentAt": 1795641669425,
+      "topic": "开源 MAGI-2 宣称对标 Seedance 2.5、价格十分之一，短剧作者该拿哪类镜头先试",
+      "headline": "开源 MAGI-2 说只要十分之一价钱：我拿旧分镜里最贵的三类镜头先试了一遍",
+      "sourceTitle": "ZPedia｜Sand.ai宣布开源 MAGI-2：Seedance 2.5 级别的生成能力，十分之一的价格",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1dtdEpMVDZKY0dNUWJtN1ZPQXh4WktZQW9Ba3p2ajNMRlVtd1RjcHJzdXQtMm9uSmdubWpzUlFtN2x4aFIyNzNuX0xrMjlrMEY2SjBKQUhRaUYwVFV3RUtUX3ZZZEFRSmhHemlTOU5XMThlVkxBNnNlOGEzN1c3TXFKV2h1T1JTemx4ag?oc=5"
+    },
+    {
+      "sentAt": 1795641669425,
+      "topic": "MAGI-2 的“50 毫秒级精准控镜”对短剧分镜意味着什么",
+      "headline": "50 毫秒控镜听着玄：放到短剧分镜里，它到底管的是哪几件事",
+      "sourceTitle": "AI日报：MAGI-2携50毫秒级精准控镜震撼发布；百度开源文心5.5 Flash Preview；混元开源Hy4 flash GGUF 量化权重",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wQ2NSUjhfRHZUWDNpSlZZTDdhY1ZkdDhuSU55aVhoaGY1QlhWWDBrZXVVcHlvaUhRSlFBVDgxWkxxb0Z1Y1NOU1FtOURZYWM?oc=5"
+    },
+    {
+      "sentAt": 1795641669425,
+      "topic": "30 秒长镜头一次生成，短剧里长镜头段落能不能不再硬切",
+      "headline": "30 秒长镜头一次生成：短剧里哪一段终于可以不硬切了",
+      "sourceTitle": "视频模型黑马杀到全球第一，30秒长镜头一次生成，价格打到Seedance 1/10",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95UnhBcUdwcWlNOV9uWnM5YXNwTHB0Sl9lcVdBX0hGUUVyZEVGd2R5VXdlTnFSa3NEdTVORDVPekluai1FSWFNeExkeWVSdw?oc=5"
+    },
+    {
       "sentAt": 1795557913082,
       "topic": "腾讯云漫剧产线宣称“日产1300集、成本降至5%”，普通创作者能抄走哪几道工序",
       "headline": "日产1300集、成本降到5%：这套漫剧流水线里，我一个人能抄走哪几步",
@@ -125,20 +146,6 @@
       "headline": "剪辑不用装软件、在浏览器里本地跑：短剧那堆素材，我先拿它试了粗剪这一步",
       "sourceTitle": "浏览器原生AI视频剪辑：WebAssembly驱动的全流程本地化工作流",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HRlprS2RNWlhpOUFZOWFyb0FTZ05yVlF5Y2lDTHlhdW9JdWM0NnRtRVhNdHFqcHU4UzcwNzl3Ry1XUXNzV0Q0eE44Rk1QdXM4YzhtczVNVVZEdFBKa1l6Sw?oc=5"
-    },
-    {
-      "sentAt": 1794425018255,
-      "topic": "本地部署 MiniMax H3 做短剧抽卡：成本几乎为零，但哪些镜头值得自己跑",
-      "headline": "把视频模型装进自己电脑：短剧里哪几类镜头，我打算本地反复抽",
-      "sourceTitle": "本地部署 MiniMax H3 实拍测试：AI视频自由抽卡，成本几乎为零？",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5MU9ReVgzcjNjNzdrMU1Rbm50dy1rR29GRlVVSWlfTXF4b21yOVJqRm9Ha3g4WHY5dmotYmR0aHdNR0htejhUcV9UeWt5eXJUMkZEN2sxNEFtM24xWjlvMGlLNk9kdHo1UFF5MlZaR2M?oc=5"
-    },
-    {
-      "sentAt": 1794425018255,
-      "topic": "用聚合平台调 AI 生视频的坑：短剧作者下单前该核对哪几项",
-      "headline": "聚合平台生视频便宜又方便：我踩过的几个坑，你下单前先看一眼",
-      "sourceTitle": "聚合平台调用AI生视频，便利背后这些坑你踩过吗",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pVjBpMkt0eHE3azJldXZWSTRhYmxZQ0NINGpXa2hsRWVyOVRqM0x0U256bE0wT2pSRlAtQWZ5N295bE8xY0VJb2UxSXppNXFsbm43dWxOMEFUU3dSeGc?oc=5"
     }
   ]
 }
