@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1795727275142,
+      "topic": "万兴剧厂接入 Seedance 2.5 flash 后，短剧作者多了一个什么档位的出片渠道",
+      "headline": "Seedance 2.5 flash 又多了一个入口：短剧里哪类镜头我打算先从这里出",
+      "sourceTitle": "万兴科技旗下万兴剧厂接入Seedance 2.5 flash、GPT Image 2.6 助力AI影视制作提速降本_滚动新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtb3BCeUlodVNsMGV6UFNsM056T1BiWS12MUNlbFlUaG1CNTZWVXV3NHBlcFRWWUtnUk14cnl0V0RVVTk4enpBMmExWjV1bXdqa3JvNHdDWEtaTGtHV0VSZkdWY3c?oc=5"
+    },
+    {
+      "sentAt": 1795727275142,
+      "topic": "Toonflow 这条开源 Electron 短剧流水线，一个人能拆出哪几段自己用",
+      "headline": "开源了一条短剧流水线：我按自己的工序，拆了拆哪几段真能用上",
+      "sourceTitle": "Toonflow：开源Electron架构的AI短剧工业化流水线",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ySno0bU1TYlpOanlVRmJ6eEdva3laVVZ1R3JHN1MzVTVSX1JWb3BUSHQ3dkdLRENYVVNKempiVVZ0c1BzaXNMeDRaNHBYV2RwZjhCRGdkOVZ5bURDUHRn?oc=5"
+    },
+    {
       "sentAt": 1795641669425,
       "topic": "开源 MAGI-2 宣称对标 Seedance 2.5、价格十分之一，短剧作者该拿哪类镜头先试",
       "headline": "开源 MAGI-2 说只要十分之一价钱：我拿旧分镜里最贵的三类镜头先试了一遍",
@@ -132,20 +146,6 @@
       "headline": "1.6 亿播放赚 39 万：我按自己一条片子，把 AI 短剧的钱重新算了一遍",
       "sourceTitle": "1.6 亿播放赚 39 万：AI 短剧的暴利，全给云厂商打了工",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSMExLVnRtMWdWMXhlM3Y5eDZINUdjNVk3b0xYekZRQ2dFN3pNVmJYMHVmZWNHdkFyUUw4ZlhlQnNZbUY2Nlhwa3RzZ1ZUTktEY2t3eG1lU0ozQjNRTjE2ZHEyRQ?oc=5"
-    },
-    {
-      "sentAt": 1794512472656,
-      "topic": "Seedance 2.5 版本更新但上限反而更低，短剧作者该不该升级、哪些镜头退回 2.0",
-      "headline": "Seedance 2.5 更新了，上限却更低：我拿旧分镜对比后，决定哪些镜头先别升级",
-      "sourceTitle": "Seedance 2.5 对比 Seedance 2.0：版本更新，但上限更低",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xSFFKaHZZeGVkZVhDNTVaTXN1R013SmlpbHVCR1R0UEhmZDRVZl8zSk5ZZEo5UGJwNm4xU3EzaEM3aW9uQm1TQXAxc1VhWW9JYURwZ1RlcVZtV1FYZkgzc0llektQTTRjaUdrYW91Y2xLdlBMcnRCaURUbGNIUQ?oc=5"
-    },
-    {
-      "sentAt": 1794512472656,
-      "topic": "浏览器里跑本地 AI 剪辑：WebAssembly 全流程本地化对短剧素材整理和粗剪的实际用处",
-      "headline": "剪辑不用装软件、在浏览器里本地跑：短剧那堆素材，我先拿它试了粗剪这一步",
-      "sourceTitle": "浏览器原生AI视频剪辑：WebAssembly驱动的全流程本地化工作流",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HRlprS2RNWlhpOUFZOWFyb0FTZ05yVlF5Y2lDTHlhdW9JdWM0NnRtRVhNdHFqcHU4UzcwNzl3Ry1XUXNzV0Q0eE44Rk1QdXM4YzhtczVNVVZEdFBKa1l6Sw?oc=5"
     }
   ]
 }
