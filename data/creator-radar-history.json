@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "sentAt": 1795812727434,
+      "topic": "用 Hugging Face Diffusers 在本地跑 NVIDIA Cosmos 3 做视频生成，普通创作者该先跑哪类镜头",
+      "headline": "Cosmos 3 能在本地 Diffusers 里跑了：我先拿短剧的空镜和转场试了一轮",
+      "sourceTitle": "在本地AI设备上使用Hugging Face Diffusers运行NVIDIA Cosmos 3教程-AI基础设施",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9STTd4M0p6WUJWQ2psMGM5dzBYVnpZS291eVFwY1ZqU3JvNjcwZjIxYlNBaGxpQ3NCVjY2MXRoUGZoSGNTRU5hS2lQRVdHTHJLVkVsaVlQczFLUWlXVFY4RXBSdEJlNVZBVGo1RzFQT0dmdw?oc=5"
+    },
+    {
+      "sentAt": 1795812727434,
+      "topic": "“丢个故事直出 15 分钟 AI 短片”这类端到端工具，普通创作者能信到哪一步",
+      "headline": "丢个故事就出 15 分钟短片：我拆了拆它到底替人干了哪几步",
+      "sourceTitle": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5faXBqYmlBZWFSaUgxS3ZGNXU3RDV2ekNrYzFzc1BQeTFxVEFCcldxQmRFM0g4Q3loTlZFV1lEZHoySlB6ZnAtWQ?oc=5"
+    },
+    {
       "sentAt": 1795727275142,
       "topic": "万兴剧厂接入 Seedance 2.5 flash 后，短剧作者多了一个什么档位的出片渠道",
       "headline": "Seedance 2.5 flash 又多了一个入口：短剧里哪类镜头我打算先从这里出",
@@ -125,27 +139,6 @@
       "headline": "同一个 Seedance，换个渠道结果差多少：短剧放量前我先跑一轮小样",
       "sourceTitle": "Seedance模型调用渠道实测：这几个稳定路子别错过",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pYzlxX0FCVlVjOTVrRGVkRUhYT3BOa3p1R0EwTzFnUTRUTHNfUnc4a3drV2wtZC1wa3g5bE1qd1dIYl82dUJVbmp2bmlqXzNWN2RQOWd4eGQxbHR2RWc?oc=5"
-    },
-    {
-      "sentAt": 1794597803566,
-      "topic": "MiniMax H3-Image 实测：10 秒 4K 直出，短剧前期设定图能不能交给它",
-      "headline": "10 秒出 4K 设定图：短剧前期那批角色和场景，我先交给它试了一轮",
-      "sourceTitle": "MiniMax H3-Image 实测：10秒4K直出，合格的工业流水线，而非灵性艺术家",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qRDByd19mNWJIT1dVOVZEZnNxcVpTa3E2SkhNQXBpdldsNGZ6R0RldVhvRU1qVndta2JOdkFpbU0wU3oyU2YzZWxrVDZPRzJRWThacWp4TkE2VElDQkY2c3l2MXNqR3lxeE5yclh1WWFSVEFrQ2VKc1o4N2U?oc=5"
-    },
-    {
-      "sentAt": 1794597803566,
-      "topic": "一秒 5 分钱的 AI MV 工作台，短剧片头曲和主题曲能不能顺手做",
-      "headline": "一秒五分钱做一支 MV：短剧的片头和主题曲，我拿它试了一遍",
-      "sourceTitle": "一秒5分钱、10元内拍出音乐大片：苏诺之音AI MV工作台评测",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBENFRWWjJhUTBsbXAtSjQ2T2Nqa3VuUExVdGlCYXh3aW5CUlhOSFpGdmMyZTVCZkVheGJnSlpjdm1VWGVRNU0tZk5LTFhnUHpWcEE?oc=5"
-    },
-    {
-      "sentAt": 1794597803566,
-      "topic": "1.6 亿播放只赚 39 万：AI 短剧的钱到底被谁拿走了，普通作者该怎么算这笔账",
-      "headline": "1.6 亿播放赚 39 万：我按自己一条片子，把 AI 短剧的钱重新算了一遍",
-      "sourceTitle": "1.6 亿播放赚 39 万：AI 短剧的暴利，全给云厂商打了工",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSMExLVnRtMWdWMXhlM3Y5eDZINUdjNVk3b0xYekZRQ2dFN3pNVmJYMHVmZWNHdkFyUUw4ZlhlQnNZbUY2Nlhwa3RzZ1ZUTktEY2t3eG1lU0ozQjNRTjE2ZHEyRQ?oc=5"
     }
   ]
 }
